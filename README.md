@@ -8,6 +8,8 @@
 
 ### [▶ Validate an idea at 1mil.app](https://1mil.app/app?utm_source=github&utm_medium=referral&utm_campaign=seed-repo)
 
+**Don't see your market?** [Request a free scan →](https://github.com/fayerman-source/startup-ideas/issues/new?template=scan-request.yml)
+
 </div>
 
 ---

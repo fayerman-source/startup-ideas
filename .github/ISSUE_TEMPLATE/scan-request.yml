@@ -1,0 +1,36 @@
+name: Request a free scan
+description: Tell us your background and topic — we'll run a free opportunity scan and post the results here.
+title: "Scan request: [your topic]"
+labels: ["scan-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        We'll run a research-backed opportunity scan using [1mil.app](https://1mil.app) and post the ranked results as a comment on this issue. Usually done within 48 hours.
+
+  - type: input
+    id: topic
+    attributes:
+      label: Topic or market
+      description: What space are you interested in? Be specific — "AI tools for nurses" beats "healthcare".
+      placeholder: e.g. solo immigration law practice, restaurant delivery operations, cybersecurity for SMBs
+    validations:
+      required: true
+
+  - type: input
+    id: role
+    attributes:
+      label: Your background
+      description: Your profession, skills, or context. The scan uses this to rank opportunities by fit.
+      placeholder: e.g. licensed attorney with 8 years immigration experience, software developer, former nurse
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Anything else? (optional)
+      description: Constraints, geography, stage, what you've already ruled out.
+      placeholder: e.g. bootstrapped only, US market, looking for something buildable solo in < 6 months
+    validations:
+      required: false
