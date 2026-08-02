@@ -1,7 +1,5 @@
 <div align="center">
 
-# Startup Ideas Worth Building
-
 <img src="https://raw.githubusercontent.com/fayerman-source/startup-ideas/main/social-preview.png" alt="Startup Ideas Worth Building: real problem spaces sourced from public pain signals, refreshed monthly. 1mil.app" width="840">
 
 **86 real problem spaces, refreshed monthly. Pick one and find out if it is worth building.**
