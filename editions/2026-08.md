@@ -2,6 +2,8 @@
 
 # Startup Ideas Worth Building
 
+<img src="https://raw.githubusercontent.com/fayerman-source/startup-ideas/main/social-preview.png" alt="Startup Ideas Worth Building: real problem spaces sourced from public pain signals, refreshed monthly. 1mil.app" width="840">
+
 **86 real problem spaces, refreshed monthly. Pick one and find out if it is worth building.**
 
 ![Seeds](https://img.shields.io/badge/seeds-86-2563eb?style=flat-square) ![Markets](https://img.shields.io/badge/markets-17-7c3aed?style=flat-square) ![Updated](https://img.shields.io/badge/updated-August%202026-22c55e?style=flat-square)
