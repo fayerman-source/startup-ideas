@@ -253,7 +253,7 @@ So do not pick the idea that sounds best. Pick the one where you already have an
 
 Bring your own. **[Run a free scan on 1mil.app](https://1mil.app/app?utm_source=github&utm_medium=referral&utm_campaign=seed-repo)**
 
-Refreshed monthly. Star this repo to catch each new batch.
+Refreshed monthly. **Watch → Custom → Releases** to get notified of each batch (a star is appreciated, but GitHub never notifies you of anything for it).
 
 </div>
 
