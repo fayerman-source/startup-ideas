@@ -1172,15 +1172,6 @@
   "source_posted": "2026-08-28"
  },
  {
-  "market": "Product Managers",
-  "idea": "Compliance-as-a-service platform for payroll-related filings and regulatory updates in embedded solutions.",
-  "problem": "The burden of managing payroll filings and compliance when integrating payroll into a product.",
-  "regulated": true,
-  "mentioned_in_thread": [],
-  "source_url": "https://www.reddit.com/r/ProductManagement/comments/1vqy4t7/have_you_tried_building_payroll_yourself/",
-  "source_posted": "2026-08-17"
- },
- {
   "market": "Financial Advisors",
   "idea": "A client presentation tool that visually demonstrates portfolio resilience during historical market downturns with specific withdrawal scenarios.",
   "problem": "Clients fear market downturns and need visual proof their financial plan can withstand them.",
@@ -3417,5 +3408,63 @@
   "mentioned_in_thread": [],
   "source_url": "https://www.reddit.com/r/nonprofit/comments/1vpe0mq/concerned_ceo_is_committing_fraud/",
   "source_posted": "2026-08-15"
+ },
+ {
+  "market": "Medical Billers",
+  "idea": "A provider network verification tool that simultaneously checks individual provider and billing group NPI/TIN tier status.",
+  "problem": "Patients and billers struggle to verify both individual provider and billing group network tiers, leading to unexpected costs.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/CodingandBilling/comments/1vfaugc/tier_1_doctors_biller_is_tier_2/",
+  "source_posted": "2026-08-04"
+ },
+ {
+  "market": "Medical Billers",
+  "idea": "A claims processing audit tool that flags discrepancies between rendering provider NPI and billing group NPI tier processing.",
+  "problem": "Insurance companies might incorrectly process claims based on the wrong NPI tier.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/CodingandBilling/comments/1vfaugc/tier_1_doctors_biller_is_tier_2/",
+  "source_posted": "2026-08-04"
+ },
+ {
+  "market": "Medical Billers",
+  "idea": "An automated CO-16 claim analysis tool that pinpoints specific missing or invalid information from the RARC.",
+  "problem": "CO-16 on its own barely tells you anything, requiring significant time to figure out what's missing.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/CodingandBilling/comments/1vr3umd/how_do_you_actually_rework_a_co16_corrected_claim/",
+  "source_posted": "2026-08-17"
+ },
+ {
+  "market": "Medical Billers",
+  "idea": "A workflow automation tool that streamlines the process of correcting and resubmitting CO-16 claims within the PMS.",
+  "problem": "Reworking CO-16 claims is a pain and eats a lot of time.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/CodingandBilling/comments/1vr3umd/how_do_you_actually_rework_a_co16_corrected_claim/",
+  "source_posted": "2026-08-17"
+ },
+ {
+  "market": "Medical Billers",
+  "idea": "An insurance payment reconciliation tool that automatically flags discrepancies between ERA, EOB, and posted payments.",
+  "problem": "Billing system incorrectly posts insurance payments, leading to mismatches between ERA/EOB and patient accounts.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "AdvMD"
+  ],
+  "source_url": "https://www.reddit.com/r/CodingandBilling/comments/1vd7cz0/advmd/",
+  "source_posted": "2026-08-02"
+ },
+ {
+  "market": "Medical Billers",
+  "idea": "An audit trail and anomaly detection system for payment postings that flags suspicious activity like off-hours entries.",
+  "problem": "Employee payment postings appear to happen outside of working hours, raising audit and fraud concerns.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "AdvMD"
+  ],
+  "source_url": "https://www.reddit.com/r/CodingandBilling/comments/1vd7cz0/advmd/",
+  "source_posted": "2026-08-02"
  }
 ]

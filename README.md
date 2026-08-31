@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/fayerman-source/startup-ideas/main/social-preview.png" alt="Startup Ideas Worth Building" width="840">
 
-**366 product hypotheses from what 25 practitioner communities discussed on Reddit in August 2026.**
+**371 product hypotheses from what 26 practitioner communities discussed on Reddit in August 2026.**
 
-![Ideas](https://img.shields.io/badge/ideas-366-2563eb?style=flat-square) ![Markets](https://img.shields.io/badge/markets-25-7c3aed?style=flat-square) ![Updated](https://img.shields.io/badge/updated-September%202026-22c55e?style=flat-square)
+![Ideas](https://img.shields.io/badge/ideas-371-2563eb?style=flat-square) ![Markets](https://img.shields.io/badge/markets-26-7c3aed?style=flat-square) ![Updated](https://img.shields.io/badge/updated-September%202026-22c55e?style=flat-square)
 
 ### [Validate an idea at 1mil.app](https://1mil.app/app?utm_source=github&utm_medium=referral&utm_campaign=seed-repo)
 
@@ -13,6 +13,8 @@
 ---
 
 Each row links a public discussion where practitioners described a problem their current tools do not solve. The idea itself is a hypothesis derived from that discussion, not proof of demand, feasibility, or willingness to pay. Where a thread named specific products, they are noted as starting points for competitive research, not a complete market map.
+
+Each market also has a page on the site carrying the same ideas plus the verbatim quote behind each one, the FAQ, and structured data: **[browse them by market](https://1mil.app/ideas/from-reddit/)**.
 
 ## How to read this list
 
@@ -32,15 +34,17 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 | [Teachers](#teachers) | 14 | [Property Managers](#property-managers) | 20 |
 | [Nurses](#nurses) | 11 | [Insurance Brokers](#insurance-brokers) | 17 |
 | [Software Developers](#software-developers) | 17 | [Dentists](#dentists) | 18 |
-| [Product Managers](#product-managers) | 16 | [Veterinarians](#veterinarians) | 16 |
+| [Product Managers](#product-managers) | 15 | [Veterinarians](#veterinarians) | 16 |
 | [Financial Advisors](#financial-advisors) | 8 | [HVAC Contractors](#hvac-contractors) | 6 |
 | [Operations Managers](#operations-managers) | 12 | [Gym Owners](#gym-owners) | 18 |
 | [Real Estate Agents](#real-estate-agents) | 16 | [Nonprofit Ops](#nonprofit-ops) | 13 |
-| [Attorneys](#attorneys) | 20 |  |  |
+| [Attorneys](#attorneys) | 20 | [Medical Billers](#medical-billers) | 6 |
 
 ---
 
 ## Accountants
+
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/accountants/) — same ideas, with the quote behind each one.</sub>
 
 | Idea | Discussed | |
 |---|:--:|:--:|
@@ -55,6 +59,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 <sub>[back to markets](#jump-to-a-market)</sub>
 
 ## Freelancers
+
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/freelancers/) — same ideas, with the quote behind each one.</sub>
 
 | Idea | Discussed | |
 |---|:--:|:--:|
@@ -71,6 +77,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 <sub>[back to markets](#jump-to-a-market)</sub>
 
 ## Marketers
+
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/marketers/) — same ideas, with the quote behind each one.</sub>
 
 | Idea | Discussed | |
 |---|:--:|:--:|
@@ -94,6 +102,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 
 ## Agency Owners
 
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/agency-owners/) — same ideas, with the quote behind each one.</sub>
+
 | Idea | Discussed | |
 |---|:--:|:--:|
 | AI receptionist screens calls to filter spam and qualify leads before connecting. | [Aug&nbsp;1](https://www.reddit.com/r/agency/comments/1vctjk3/we_won_a_2250month_client_because_we_actually/) | [Validate](https://1mil.app/app?topic=AI+receptionist+screens+calls+to+filter+spam+and+qualify+leads+before+connecting.&role=Agency+Owner&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
@@ -115,6 +125,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 <sub>[back to markets](#jump-to-a-market)</sub>
 
 ## Small Business Owners
+
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/small-business-owners/) — same ideas, with the quote behind each one.</sub>
 
 | Idea | Discussed | |
 |---|:--:|:--:|
@@ -148,6 +160,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 
 ## Teachers
 
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/teachers/) — same ideas, with the quote behind each one.</sub>
+
 | Idea | Discussed | |
 |---|:--:|:--:|
 | Communication tool detecting and flagging AI-generated content in teacher emails. | [Aug&nbsp;13](https://www.reddit.com/r/Teachers/comments/1vnor8y/im_adding_an_ai_prompt_injected_into_my_email/) | [Validate](https://1mil.app/app?topic=Communication+tool+detecting+and+flagging+AI-generated+content+in+teacher+emails.&role=Teacher&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
@@ -169,6 +183,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 
 ## Nurses
 
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/nurses/) — same ideas, with the quote behind each one.</sub>
+
 | Idea | Discussed | |
 |---|:--:|:--:|
 | AI charting assistant summarizing patient status and treatment rationale for nurses.<br><sub>⚠️ regulated space — licensing, privacy, and liability rules apply</sub> | [Aug&nbsp;20](https://www.reddit.com/r/nursing/comments/1vthzzd/whats_the_funniest_thing_youve_ever_seen/) | [Validate](https://1mil.app/app?topic=AI+charting+assistant+summarizing+patient+status+and+treatment+rationale+for+nurses.&role=Nurse&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
@@ -186,6 +202,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 <sub>[back to markets](#jump-to-a-market)</sub>
 
 ## Software Developers
+
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/software-developers/) — same ideas, with the quote behind each one.</sub>
 
 | Idea | Discussed | |
 |---|:--:|:--:|
@@ -211,6 +229,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 
 ## Product Managers
 
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/product-managers/) — same ideas, with the quote behind each one.</sub>
+
 | Idea | Discussed | |
 |---|:--:|:--:|
 | Product portfolio tool visualizing financial impact on revenue and profit. | [Aug&nbsp;2](https://www.reddit.com/r/ProductManagement/comments/1vd78x2/3_unpopular_pm_opinions/) | [Validate](https://1mil.app/app?topic=Product+portfolio+tool+visualizing+financial+impact+on+revenue+and+profit.&role=Product+Manager&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
@@ -228,11 +248,12 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 | Business case generator structuring funding requests and anticipating C-level challenges. | [Aug&nbsp;9](https://www.reddit.com/r/ProductManagement/comments/1vjq8i4/which_of_these_5_pm_topics_make_you_sweat_a_bit/) | [Validate](https://1mil.app/app?topic=Business+case+generator+structuring+funding+requests+and+anticipating+C-level+challenges.&role=Product+Manager&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
 | PM requirements generation tool keeping pace with AI-accelerated development cycles. | [Aug&nbsp;28](https://www.reddit.com/r/ProductManagement/comments/1w0dtci/software_development_the_role_of_developers_and/) | [Validate](https://1mil.app/app?topic=PM+requirements+generation+tool+keeping+pace+with+AI-accelerated+development+cycles.&role=Product+Manager&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
 | AI-powered testing orchestration tool managing increased load from AI-generated code. | [Aug&nbsp;28](https://www.reddit.com/r/ProductManagement/comments/1w0dtci/software_development_the_role_of_developers_and/) | [Validate](https://1mil.app/app?topic=AI-powered+testing+orchestration+tool+managing+increased+load+from+AI-generated+code.&role=Product+Manager&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
-| Compliance-as-a-service platform for payroll-related filings and regulatory updates in embedded solutions.<br><sub>⚠️ regulated space — licensing, privacy, and liability rules apply</sub> | [Aug&nbsp;17](https://www.reddit.com/r/ProductManagement/comments/1vqy4t7/have_you_tried_building_payroll_yourself/) | [Validate](https://1mil.app/app?topic=Compliance-as-a-service+platform+for+payroll-related+filings+and+regulatory+updates+in+embedded+solutions.&role=Product+Manager&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
 
 <sub>[back to markets](#jump-to-a-market)</sub>
 
 ## Financial Advisors
+
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/financial-advisors/) — same ideas, with the quote behind each one.</sub>
 
 | Idea | Discussed | |
 |---|:--:|:--:|
@@ -248,6 +269,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 <sub>[back to markets](#jump-to-a-market)</sub>
 
 ## Operations Managers
+
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/operations-managers/) — same ideas, with the quote behind each one.</sub>
 
 | Idea | Discussed | |
 |---|:--:|:--:|
@@ -267,6 +290,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 <sub>[back to markets](#jump-to-a-market)</sub>
 
 ## Real Estate Agents
+
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/real-estate-agents/) — same ideas, with the quote behind each one.</sub>
 
 | Idea | Discussed | |
 |---|:--:|:--:|
@@ -290,6 +315,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 <sub>[back to markets](#jump-to-a-market)</sub>
 
 ## Attorneys
+
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/attorneys/) — same ideas, with the quote behind each one.</sub>
 
 | Idea | Discussed | |
 |---|:--:|:--:|
@@ -318,6 +345,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 
 ## Consultants
 
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/consultants/) — same ideas, with the quote behind each one.</sub>
+
 | Idea | Discussed | |
 |---|:--:|:--:|
 | Per diem expense tool applying government-regulated meal allowances for various locations.<br><sub>mentioned in thread: GSA</sub> | [Aug&nbsp;26](https://www.reddit.com/r/consulting/comments/1vynhdi/125_per_meal_limit_normal_or_too_strict/) | [Validate](https://1mil.app/app?topic=Per+diem+expense+tool+applying+government-regulated+meal+allowances+for+various+locations.&role=Consultant&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
@@ -338,6 +367,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 
 ## E-commerce Sellers
 
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/ecommerce-sellers/) — same ideas, with the quote behind each one.</sub>
+
 | Idea | Discussed | |
 |---|:--:|:--:|
 | Platform connecting e-commerce sellers with vetted marketing agencies, emphasizing back-channel references. | [Aug&nbsp;8](https://www.reddit.com/r/ecommerce/comments/1viqs3c/are_all_agencys_a_scam/) | [Validate](https://1mil.app/app?topic=Platform+connecting+e-commerce+sellers+with+vetted+marketing+agencies%2C+emphasizing+back-channel+references.&role=E-commerce+Seller&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
@@ -357,6 +388,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 <sub>[back to markets](#jump-to-a-market)</sub>
 
 ## Restaurant Owners
+
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/restaurant-owners/) — same ideas, with the quote behind each one.</sub>
 
 | Idea | Discussed | |
 |---|:--:|:--:|
@@ -380,6 +413,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 
 ## Content Creators
 
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/content-creators/) — same ideas, with the quote behind each one.</sub>
+
 | Idea | Discussed | |
 |---|:--:|:--:|
 | Video editing tool for Shorts creators to rework existing Shorts into 16:9 longform videos. | [Aug&nbsp;2](https://www.reddit.com/r/NewTubers/comments/1vdg239/one_year_on_youtube_8_things_i_wish_i_knew_before/) | [Validate](https://1mil.app/app?topic=Video+editing+tool+for+Shorts+creators+to+rework+existing+Shorts+into+16%3A9+longform+videos.&role=Content+Creator&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
@@ -398,6 +433,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 <sub>[back to markets](#jump-to-a-market)</sub>
 
 ## HR Managers
+
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/hr-managers/) — same ideas, with the quote behind each one.</sub>
 
 | Idea | Discussed | |
 |---|:--:|:--:|
@@ -426,6 +463,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 
 ## Property Managers
 
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/property-managers/) — same ideas, with the quote behind each one.</sub>
+
 | Idea | Discussed | |
 |---|:--:|:--:|
 | Mobile app for date-stamped, geo-tagged photos for unit condition documentation. | [Aug&nbsp;18](https://www.reddit.com/r/PropertyManagement/comments/1vs5thd/what_i_started_doing_between_tenants_after_year/) | [Validate](https://1mil.app/app?topic=Mobile+app+for+date-stamped%2C+geo-tagged+photos+for+unit+condition+documentation.&role=Property+Manager&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
@@ -453,6 +492,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 
 ## Insurance Brokers
 
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/insurance-brokers/) — same ideas, with the quote behind each one.</sub>
+
 | Idea | Discussed | |
 |---|:--:|:--:|
 | Claim analysis platform identifying suspicious denial patterns across insurers. | [Aug&nbsp;27](https://www.reddit.com/r/InsuranceAgent/comments/1vzsjl8/the_state_farm_doc_dump_is_crazy_stuff/) | [Validate](https://1mil.app/app?topic=Claim+analysis+platform+identifying+suspicious+denial+patterns+across+insurers.&role=Insurance+Broker&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
@@ -476,6 +517,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 <sub>[back to markets](#jump-to-a-market)</sub>
 
 ## Dentists
+
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/dentists/) — same ideas, with the quote behind each one.</sub>
 
 | Idea | Discussed | |
 |---|:--:|:--:|
@@ -502,6 +545,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 
 ## Veterinarians
 
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/veterinarians/) — same ideas, with the quote behind each one.</sub>
+
 | Idea | Discussed | |
 |---|:--:|:--:|
 | Secure, anonymous peer support platform for veterinarian case review and emotional support. | [Aug&nbsp;20](https://www.reddit.com/r/Veterinary/comments/1vtpmbi/im_tired/) | [Validate](https://1mil.app/app?topic=Secure%2C+anonymous+peer+support+platform+for+veterinarian+case+review+and+emotional+support.&role=Veterinarian&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
@@ -525,6 +570,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 
 ## HVAC Contractors
 
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/hvac-contractors/) — same ideas, with the quote behind each one.</sub>
+
 | Idea | Discussed | |
 |---|:--:|:--:|
 | A deal aggregation platform notifying HVAC contractors about sales on common tools and supplies. | [Aug&nbsp;28](https://www.reddit.com/r/HVAC/comments/1w0ysdf/sale_on_the_magnet_umbrellas_for_30_bought_8_of/) | [Validate](https://1mil.app/app?topic=A+deal+aggregation+platform+notifying+HVAC+contractors+about+sales+on+common+tools+and+supplies.&role=HVAC+Contractor&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
@@ -537,6 +584,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 <sub>[back to markets](#jump-to-a-market)</sub>
 
 ## Gym Owners
+
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/gym-owners/) — same ideas, with the quote behind each one.</sub>
 
 | Idea | Discussed | |
 |---|:--:|:--:|
@@ -563,6 +612,8 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 
 ## Nonprofit Ops
 
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/nonprofit-teams/) — same ideas, with the quote behind each one.</sub>
+
 | Idea | Discussed | |
 |---|:--:|:--:|
 | Platform connecting new nonprofit EDs with experienced financial advisors for mentorship.<br><sub>⚠️ regulated space — licensing, privacy, and liability rules apply</sub> | [Aug&nbsp;7](https://www.reddit.com/r/nonprofit/comments/1vhoo0f/trying_not_to_regret_becoming_the_executive/) | [Validate](https://1mil.app/app?topic=Platform+connecting+new+nonprofit+EDs+with+experienced+financial+advisors+for+mentorship.&role=Nonprofit+Ops&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
@@ -578,6 +629,21 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 | Zoom integration providing polite, non-verbal cues for rambling or exceeding speaking time.<br><sub>mentioned in thread: Zoom</sub> | [Aug&nbsp;5](https://www.reddit.com/r/nonprofit/comments/1vgi4bg/is_there_a_polite_way_to_get_someone_to_stop/) | [Validate](https://1mil.app/app?topic=Zoom+integration+providing+polite%2C+non-verbal+cues+for+rambling+or+exceeding+speaking+time.&role=Nonprofit+Ops&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
 | Anonymous reporting platform for employees to securely report fraud when internal channels are compromised.<br><sub>⚠️ regulated space — licensing, privacy, and liability rules apply</sub> | [Aug&nbsp;15](https://www.reddit.com/r/nonprofit/comments/1vpe0mq/concerned_ceo_is_committing_fraud/) | [Validate](https://1mil.app/app?topic=Anonymous+reporting+platform+for+employees+to+securely+report+fraud+when+internal+channels+are+compromised.&role=Nonprofit+Ops&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
 | Internal issue logging tool creating auditable records of reported staffing and patient concerns.<br><sub>⚠️ regulated space — licensing, privacy, and liability rules apply</sub> | [Aug&nbsp;15](https://www.reddit.com/r/nonprofit/comments/1vpe0mq/concerned_ceo_is_committing_fraud/) | [Validate](https://1mil.app/app?topic=Internal+issue+logging+tool+creating+auditable+records+of+reported+staffing+and+patient+concerns.&role=Nonprofit+Ops&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
+
+<sub>[back to markets](#jump-to-a-market)</sub>
+
+## Medical Billers
+
+<sub>[Read this market on the site](https://1mil.app/ideas/from-reddit/medical-billers/) — same ideas, with the quote behind each one.</sub>
+
+| Idea | Discussed | |
+|---|:--:|:--:|
+| A provider network verification tool that simultaneously checks individual provider and billing group NPI/TIN tier status. | [Aug&nbsp;4](https://www.reddit.com/r/CodingandBilling/comments/1vfaugc/tier_1_doctors_biller_is_tier_2/) | [Validate](https://1mil.app/app?topic=A+provider+network+verification+tool+that+simultaneously+checks+individual+provider+and+billing+group+NPI%2FTIN+tier+status.&role=Medical+Biller&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
+| A claims processing audit tool that flags discrepancies between rendering provider NPI and billing group NPI tier processing. | [Aug&nbsp;4](https://www.reddit.com/r/CodingandBilling/comments/1vfaugc/tier_1_doctors_biller_is_tier_2/) | [Validate](https://1mil.app/app?topic=A+claims+processing+audit+tool+that+flags+discrepancies+between+rendering+provider+NPI+and+billing+group+NPI+tier+processing.&role=Medical+Biller&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
+| An automated CO-16 claim analysis tool that pinpoints specific missing or invalid information from the RARC. | [Aug&nbsp;17](https://www.reddit.com/r/CodingandBilling/comments/1vr3umd/how_do_you_actually_rework_a_co16_corrected_claim/) | [Validate](https://1mil.app/app?topic=An+automated+CO-16+claim+analysis+tool+that+pinpoints+specific+missing+or+invalid+information+from+the+RARC.&role=Medical+Biller&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
+| A workflow automation tool that streamlines the process of correcting and resubmitting CO-16 claims within the PMS. | [Aug&nbsp;17](https://www.reddit.com/r/CodingandBilling/comments/1vr3umd/how_do_you_actually_rework_a_co16_corrected_claim/) | [Validate](https://1mil.app/app?topic=A+workflow+automation+tool+that+streamlines+the+process+of+correcting+and+resubmitting+CO-16+claims+within+the+PMS.&role=Medical+Biller&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
+| An insurance payment reconciliation tool that automatically flags discrepancies between ERA, EOB, and posted payments.<br><sub>mentioned in thread: AdvMD</sub> | [Aug&nbsp;2](https://www.reddit.com/r/CodingandBilling/comments/1vd7cz0/advmd/) | [Validate](https://1mil.app/app?topic=An+insurance+payment+reconciliation+tool+that+automatically+flags+discrepancies+between+ERA%2C+EOB%2C+and+posted+payments.&role=Medical+Biller&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
+| An audit trail and anomaly detection system for payment postings that flags suspicious activity like off-hours entries.<br><sub>mentioned in thread: AdvMD</sub> | [Aug&nbsp;2](https://www.reddit.com/r/CodingandBilling/comments/1vd7cz0/advmd/) | [Validate](https://1mil.app/app?topic=An+audit+trail+and+anomaly+detection+system+for+payment+postings+that+flags+suspicious+activity+like+off-hours+entries.&role=Medical+Biller&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
 
 <sub>[back to markets](#jump-to-a-market)</sub>
 
