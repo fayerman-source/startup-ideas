@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/fayerman-source/startup-ideas/main/social-preview.png" alt="Startup Ideas Worth Building" width="840">
 
-**366 product hypotheses from what 25 practitioner communities discussed on Reddit in August 2026.**
+**371 product hypotheses from what 26 practitioner communities discussed on Reddit in August 2026.**
 
-![Ideas](https://img.shields.io/badge/ideas-366-2563eb?style=flat-square) ![Markets](https://img.shields.io/badge/markets-25-7c3aed?style=flat-square) ![Updated](https://img.shields.io/badge/updated-September%202026-22c55e?style=flat-square)
+![Ideas](https://img.shields.io/badge/ideas-371-2563eb?style=flat-square) ![Markets](https://img.shields.io/badge/markets-26-7c3aed?style=flat-square) ![Updated](https://img.shields.io/badge/updated-September%202026-22c55e?style=flat-square)
 
 ### [Validate an idea at 1mil.app](https://1mil.app/app?utm_source=github&utm_medium=referral&utm_campaign=seed-repo)
 
@@ -32,11 +32,11 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 | [Teachers](#teachers) | 14 | [Property Managers](#property-managers) | 20 |
 | [Nurses](#nurses) | 11 | [Insurance Brokers](#insurance-brokers) | 17 |
 | [Software Developers](#software-developers) | 17 | [Dentists](#dentists) | 18 |
-| [Product Managers](#product-managers) | 16 | [Veterinarians](#veterinarians) | 16 |
+| [Product Managers](#product-managers) | 15 | [Veterinarians](#veterinarians) | 16 |
 | [Financial Advisors](#financial-advisors) | 8 | [HVAC Contractors](#hvac-contractors) | 6 |
 | [Operations Managers](#operations-managers) | 12 | [Gym Owners](#gym-owners) | 18 |
 | [Real Estate Agents](#real-estate-agents) | 16 | [Nonprofit Ops](#nonprofit-ops) | 13 |
-| [Attorneys](#attorneys) | 20 |  |  |
+| [Attorneys](#attorneys) | 20 | [Medical Billers](#medical-billers) | 6 |
 
 ---
 
@@ -228,7 +228,6 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 | Business case generator structuring funding requests and anticipating C-level challenges. | [Aug&nbsp;9](https://www.reddit.com/r/ProductManagement/comments/1vjq8i4/which_of_these_5_pm_topics_make_you_sweat_a_bit/) | [Validate](https://1mil.app/app?topic=Business+case+generator+structuring+funding+requests+and+anticipating+C-level+challenges.&role=Product+Manager&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
 | PM requirements generation tool keeping pace with AI-accelerated development cycles. | [Aug&nbsp;28](https://www.reddit.com/r/ProductManagement/comments/1w0dtci/software_development_the_role_of_developers_and/) | [Validate](https://1mil.app/app?topic=PM+requirements+generation+tool+keeping+pace+with+AI-accelerated+development+cycles.&role=Product+Manager&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
 | AI-powered testing orchestration tool managing increased load from AI-generated code. | [Aug&nbsp;28](https://www.reddit.com/r/ProductManagement/comments/1w0dtci/software_development_the_role_of_developers_and/) | [Validate](https://1mil.app/app?topic=AI-powered+testing+orchestration+tool+managing+increased+load+from+AI-generated+code.&role=Product+Manager&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
-| Compliance-as-a-service platform for payroll-related filings and regulatory updates in embedded solutions.<br><sub>⚠️ regulated space — licensing, privacy, and liability rules apply</sub> | [Aug&nbsp;17](https://www.reddit.com/r/ProductManagement/comments/1vqy4t7/have_you_tried_building_payroll_yourself/) | [Validate](https://1mil.app/app?topic=Compliance-as-a-service+platform+for+payroll-related+filings+and+regulatory+updates+in+embedded+solutions.&role=Product+Manager&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
 
 <sub>[back to markets](#jump-to-a-market)</sub>
 
@@ -578,6 +577,19 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 | Zoom integration providing polite, non-verbal cues for rambling or exceeding speaking time.<br><sub>mentioned in thread: Zoom</sub> | [Aug&nbsp;5](https://www.reddit.com/r/nonprofit/comments/1vgi4bg/is_there_a_polite_way_to_get_someone_to_stop/) | [Validate](https://1mil.app/app?topic=Zoom+integration+providing+polite%2C+non-verbal+cues+for+rambling+or+exceeding+speaking+time.&role=Nonprofit+Ops&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
 | Anonymous reporting platform for employees to securely report fraud when internal channels are compromised.<br><sub>⚠️ regulated space — licensing, privacy, and liability rules apply</sub> | [Aug&nbsp;15](https://www.reddit.com/r/nonprofit/comments/1vpe0mq/concerned_ceo_is_committing_fraud/) | [Validate](https://1mil.app/app?topic=Anonymous+reporting+platform+for+employees+to+securely+report+fraud+when+internal+channels+are+compromised.&role=Nonprofit+Ops&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
 | Internal issue logging tool creating auditable records of reported staffing and patient concerns.<br><sub>⚠️ regulated space — licensing, privacy, and liability rules apply</sub> | [Aug&nbsp;15](https://www.reddit.com/r/nonprofit/comments/1vpe0mq/concerned_ceo_is_committing_fraud/) | [Validate](https://1mil.app/app?topic=Internal+issue+logging+tool+creating+auditable+records+of+reported+staffing+and+patient+concerns.&role=Nonprofit+Ops&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
+
+<sub>[back to markets](#jump-to-a-market)</sub>
+
+## Medical Billers
+
+| Idea | Discussed | |
+|---|:--:|:--:|
+| A provider network verification tool that simultaneously checks individual provider and billing group NPI/TIN tier status. | [Aug&nbsp;4](https://www.reddit.com/r/CodingandBilling/comments/1vfaugc/tier_1_doctors_biller_is_tier_2/) | [Validate](https://1mil.app/app?topic=A+provider+network+verification+tool+that+simultaneously+checks+individual+provider+and+billing+group+NPI%2FTIN+tier+status.&role=Medical+Biller&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
+| A claims processing audit tool that flags discrepancies between rendering provider NPI and billing group NPI tier processing. | [Aug&nbsp;4](https://www.reddit.com/r/CodingandBilling/comments/1vfaugc/tier_1_doctors_biller_is_tier_2/) | [Validate](https://1mil.app/app?topic=A+claims+processing+audit+tool+that+flags+discrepancies+between+rendering+provider+NPI+and+billing+group+NPI+tier+processing.&role=Medical+Biller&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
+| An automated CO-16 claim analysis tool that pinpoints specific missing or invalid information from the RARC. | [Aug&nbsp;17](https://www.reddit.com/r/CodingandBilling/comments/1vr3umd/how_do_you_actually_rework_a_co16_corrected_claim/) | [Validate](https://1mil.app/app?topic=An+automated+CO-16+claim+analysis+tool+that+pinpoints+specific+missing+or+invalid+information+from+the+RARC.&role=Medical+Biller&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
+| A workflow automation tool that streamlines the process of correcting and resubmitting CO-16 claims within the PMS. | [Aug&nbsp;17](https://www.reddit.com/r/CodingandBilling/comments/1vr3umd/how_do_you_actually_rework_a_co16_corrected_claim/) | [Validate](https://1mil.app/app?topic=A+workflow+automation+tool+that+streamlines+the+process+of+correcting+and+resubmitting+CO-16+claims+within+the+PMS.&role=Medical+Biller&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
+| An insurance payment reconciliation tool that automatically flags discrepancies between ERA, EOB, and posted payments.<br><sub>mentioned in thread: AdvMD</sub> | [Aug&nbsp;2](https://www.reddit.com/r/CodingandBilling/comments/1vd7cz0/advmd/) | [Validate](https://1mil.app/app?topic=An+insurance+payment+reconciliation+tool+that+automatically+flags+discrepancies+between+ERA%2C+EOB%2C+and+posted+payments.&role=Medical+Biller&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
+| An audit trail and anomaly detection system for payment postings that flags suspicious activity like off-hours entries.<br><sub>mentioned in thread: AdvMD</sub> | [Aug&nbsp;2](https://www.reddit.com/r/CodingandBilling/comments/1vd7cz0/advmd/) | [Validate](https://1mil.app/app?topic=An+audit+trail+and+anomaly+detection+system+for+payment+postings+that+flags+suspicious+activity+like+off-hours+entries.&role=Medical+Biller&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
 
 <sub>[back to markets](#jump-to-a-market)</sub>
 
