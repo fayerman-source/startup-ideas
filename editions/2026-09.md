@@ -591,7 +591,7 @@ Bring your own. **[Run a free scan on 1mil.app](https://1mil.app/app?utm_source=
 
 Refreshed monthly. **Watch → Custom → Releases** to get notified of each batch.
 
-Prefer the raw data? Every idea, with its source thread, is in [data/ideas-2026-09.json](data/ideas-2026-09.json).
+Prefer the raw data? Every idea, with its source thread, is in [data/ideas-2026-09.json](https://github.com/fayerman-source/startup-ideas/blob/main/data/ideas-2026-09.json).
 
 </div>
 
