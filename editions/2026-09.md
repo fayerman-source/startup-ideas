@@ -589,7 +589,7 @@ Most ideas are bad for most founders; the same idea can be a dead end for one pe
 
 Bring your own. **[Run a free scan on 1mil.app](https://1mil.app/app?utm_source=github&utm_medium=referral&utm_campaign=seed-repo)**
 
-Refreshed monthly. **Watch → Custom → Releases** to get notified of each batch.
+Refreshed monthly. **Watch → Custom → Releases** to get notified of each batch (a star is appreciated, but GitHub never notifies you of anything for it).
 
 Prefer the raw data? Every idea, with its source thread, is in [data/ideas-2026-09.json](https://github.com/fayerman-source/startup-ideas/blob/main/data/ideas-2026-09.json).
 
@@ -597,10 +597,10 @@ Prefer the raw data? Every idea, with its source thread, is in [data/ideas-2026-
 
 ## Previous editions
 
-- [September 2026](editions/2026-09.md) (current)
-- [August 2026](editions/2026-08.md)
-- [June 2026](editions/2026-06.md)
-- [May 2026](editions/2026-05.md)
+- [September 2026](https://github.com/fayerman-source/startup-ideas/blob/main/editions/2026-09.md) (current)
+- [August 2026](https://github.com/fayerman-source/startup-ideas/blob/main/editions/2026-08.md)
+- [June 2026](https://github.com/fayerman-source/startup-ideas/blob/main/editions/2026-06.md)
+- [May 2026](https://github.com/fayerman-source/startup-ideas/blob/main/editions/2026-05.md)
 
 ## License
 
