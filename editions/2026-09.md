@@ -2,9 +2,9 @@
 
 <img src="https://raw.githubusercontent.com/fayerman-source/startup-ideas/main/social-preview.png" alt="Startup Ideas Worth Building: real problem spaces sourced from public pain signals, refreshed monthly. 1mil.app" width="840">
 
-**141 real problem spaces, refreshed monthly. Pick one and find out if it is worth building.**
+**140 real problem spaces, refreshed monthly. Pick one and find out if it is worth building.**
 
-![Seeds](https://img.shields.io/badge/seeds-141-2563eb?style=flat-square) ![Markets](https://img.shields.io/badge/markets-18-7c3aed?style=flat-square) ![Updated](https://img.shields.io/badge/updated-September%202026-22c55e?style=flat-square)
+![Seeds](https://img.shields.io/badge/seeds-140-2563eb?style=flat-square) ![Markets](https://img.shields.io/badge/markets-18-7c3aed?style=flat-square) ![Updated](https://img.shields.io/badge/updated-September%202026-22c55e?style=flat-square)
 
 ### [Validate an idea at 1mil.app](https://1mil.app/app?utm_source=github&utm_medium=referral&utm_campaign=seed-repo)
 
@@ -31,7 +31,7 @@ So do not pick the idea that sounds best. Pick the one where you already have an
 | [Accountants](#accountants) | 8 | [Financial Advisors](#financial-advisors) | 8 |
 | [Freelancers](#freelancers) | 8 | [Operations Managers](#operations-managers) | 8 |
 | [Marketers](#marketers) | 8 | [Real Estate Agents](#real-estate-agents) | 8 |
-| [Agency Owners](#agency-owners) | 8 | [Attorneys](#attorneys) | 8 |
+| [Agency Owners](#agency-owners) | 8 | [Attorneys](#attorneys) | 7 |
 | [Small Business Owners](#small-business-owners) | 5 | [Consultants](#consultants) | 8 |
 | [Teachers](#teachers) | 8 | [Ecommerce Sellers](#ecommerce-sellers) | 8 |
 | [Nurses](#nurses) | 8 | [Restaurant Owners](#restaurant-owners) | 8 |
@@ -223,7 +223,6 @@ So do not pick the idea that sounds best. Pick the one where you already have an
 |---|---|---|
 | Solo attorneys struggle with accurate IOLTA trust accounting compliance and reconciliation. | [rocketmatter.com](https://www.rocketmatter.com/blog/six-trust-accounting-challenges-faced-by-solo-and-small-firms/) | [Validate](https://1mil.app/app?topic=Solo+attorneys+struggle+with+accurate+IOLTA+trust+accounting+compliance+and+reconciliation.&role=Attorney&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
 | Clio users complain of slow performance and limited customization options. | [reddit.com](https://www.reddit.com/r/LawFirm/comments/iixo7a/new_practice_management_software_what_do_you_hate/) | [Validate](https://1mil.app/app?topic=Clio+users+complain+of+slow+performance+and+limited+customization+options.&role=Attorney&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
-| Generic accounting software fails to meet legal trust accounting needs. |  | [Validate](https://1mil.app/app?topic=Generic+accounting+software+fails+to+meet+legal+trust+accounting+needs.&role=Attorney&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
 | Manual document creation is repetitive, error-prone, and wastes billable time. | [ustechautomations.com](https://ustechautomations.com/resources/blog/automate-best-document-automation-software-for-small-law-firms-2026) | [Validate](https://1mil.app/app?topic=Manual+document+creation+is+repetitive%2C+error-prone%2C+and+wastes+billable+time.&role=Attorney&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
 | Inefficient client intake processes, like Clio forms, lose leads and non-billable hours. | [reddit.com](https://www.reddit.com/r/Lawyertalk/comments/wlx8l7/problems_with_clio_any_decent_alternatives/) | [Validate](https://1mil.app/app?topic=Inefficient+client+intake+processes%2C+like+Clio+forms%2C+lose+leads+and+non-billable+hours.&role=Attorney&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
 | Small firms find enterprise document automation tools too costly and complex. | [edtek.ai](https://edtek.ai/kb/legal-document-automation-for-small-law-firms/) | [Validate](https://1mil.app/app?topic=Small+firms+find+enterprise+document+automation+tools+too+costly+and+complex.&role=Attorney&utm_source=github&utm_medium=referral&utm_campaign=seed-repo) |
@@ -321,7 +320,7 @@ Refreshed monthly. **Watch → Custom → Releases** to get notified of each bat
 
 ## Previous editions
 
-- [September 2026](editions/2026-09.md): 141 seeds (current)
+- [September 2026](editions/2026-09.md): 140 seeds (current)
 - [August 2026](editions/2026-08.md): 86 seeds
 - [June 2026](editions/2026-06.md): 79 seeds
 - [May 2026](editions/2026-05.md): 140 seeds
