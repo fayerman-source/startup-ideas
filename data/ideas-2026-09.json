@@ -1,0 +1,3421 @@
+[
+ {
+  "market": "Accountants",
+  "idea": "Compensation analytics platform providing inflation-adjusted historical salary data for accounting roles by firm and location.",
+  "problem": "Accountants are salty about past salaries not keeping pace with inflation or current market rates.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Accounting/comments/1vluzrx/big_4_entry_level_comp_is_insane/",
+  "source_posted": "2026-08-11"
+ },
+ {
+  "market": "Accountants",
+  "idea": "Benefits navigation platform for unemployment filing workflow and state-specific law reference.",
+  "problem": "Can’t collect unemployment due to funny-sad unemployment laws.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Accounting/comments/1vyzk6k/well_i_got_laid_off/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Accountants",
+  "idea": "CPA/EA exam prep platform offering flexible, affordable study resources.",
+  "problem": "Needing to study for CPA/EA exams while unemployed and potentially low on funds.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Accounting/comments/1vyzk6k/well_i_got_laid_off/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Accountants",
+  "idea": "Career transition platform connecting laid-off accountants with job openings and counseling.",
+  "problem": "Feeling super lost after layoff, needing to find a new gig quickly.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Accounting/comments/1vyzk6k/well_i_got_laid_off/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Accountants",
+  "idea": "HR communication tool facilitating humane, transparent layoff processes for employers.",
+  "problem": "Getting the axe over Teams then having your manager call you oblivious to the whole thing.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Accounting/comments/1vyzk6k/well_i_got_laid_off/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Accountants",
+  "idea": "Financial management tool for severance and unemployment benefits documentation during job transition.",
+  "problem": "Managing finances during unemployment, making severance last.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Accounting/comments/1vyzk6k/well_i_got_laid_off/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Accountants",
+  "idea": "Team collaboration platform optimizing remote work and structured in-person meetings for introverted teams.",
+  "problem": "Unnecessary in-person meetings are counterproductive and distracting for introverts.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Accounting/comments/1vsqk2a/being_an_extrovert_is_such_a_superpower_in_public/",
+  "source_posted": "2026-08-19"
+ },
+ {
+  "market": "Freelancers",
+  "idea": "Platform connecting freelancers with clients for complex, high-value creative work beyond AI capabilities.",
+  "problem": "AI is replacing basic freelance tasks, making it harder for freelancers to find work.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/freelance/comments/1vy1khu/ai_has_completely_changed_freelance_work_and/",
+  "source_posted": "2026-08-25"
+ },
+ {
+  "market": "Freelancers",
+  "idea": "Marketplace connecting freelancers with clients for refinement or correction of AI-generated content.",
+  "problem": "Clients generate AI content that needs human refinement, but struggle to find suitable freelancers.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/freelance/comments/1vy1khu/ai_has_completely_changed_freelance_work_and/",
+  "source_posted": "2026-08-25"
+ },
+ {
+  "market": "Freelancers",
+  "idea": "Negotiation assistant providing freelancers data-driven arguments to justify rates against AI alternatives.",
+  "problem": "Clients use AI as a leverage to haggle on freelancer pricing.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/freelance/comments/1vy1khu/ai_has_completely_changed_freelance_work_and/",
+  "source_posted": "2026-08-25"
+ },
+ {
+  "market": "Freelancers",
+  "idea": "Client vetting platform for freelancers to anonymously report and review clients for inappropriate interview behavior.",
+  "problem": "Freelancers face inappropriate personal questions during interviews and lack a way to report or avoid such clients.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/freelance/comments/1vgdcvi/why_do_some_freelance_interviewers_ignore/",
+  "source_posted": "2026-08-05"
+ },
+ {
+  "market": "Freelancers",
+  "idea": "Legal documentation and escalation support for freelancers pursuing unpaid invoices and ghosting clients.",
+  "problem": "Freelancers are ghosted by clients after work approval, leading to unpaid invoices and lack of legal recourse.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/freelance/comments/1vkxkv9/a_client_ghosted_me_after_approving_the_work_and/",
+  "source_posted": "2026-08-10"
+ },
+ {
+  "market": "Freelancers",
+  "idea": "Communication assistant for freelancers to craft assertive responses and boundary-setting messages to difficult clients.",
+  "problem": "Freelancers find it difficult to set and enforce clear boundaries with rude or demanding clients.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/freelance/comments/1vlkwpx/anyone_else_dealing_with_extremely_rudedemanding/",
+  "source_posted": "2026-08-11"
+ },
+ {
+  "market": "Freelancers",
+  "idea": "Secure communication logging tool automatically archiving client interactions for dispute resolution and record-keeping.",
+  "problem": "Freelancers need to document client interactions for potential disputes but lack an efficient system.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/freelance/comments/1vlkwpx/anyone_else_dealing_with_extremely_rudedemanding/",
+  "source_posted": "2026-08-11"
+ },
+ {
+  "market": "Freelancers",
+  "idea": "Contract analysis tool highlighting unfavorable clauses for freelancer review and legal consultation preparation.",
+  "problem": "Freelancers receive updated contracts that add burdens without increased compensation, and need help negotiating.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/freelance/comments/1vtl3or/client_sent_an_updated_contract_agreement_best/",
+  "source_posted": "2026-08-20"
+ },
+ {
+  "market": "Freelancers",
+  "idea": "Project analytics dashboard quantifying freelance work impact on client business growth and user satisfaction.",
+  "problem": "Freelancers want to see if their work genuinely grows the client's business or benefits end-users.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/freelance/comments/1vrg5vb/did_anyone_actually_start_out_caring_about_users/",
+  "source_posted": "2026-08-18"
+ },
+ {
+  "market": "Marketers",
+  "idea": "Project management tool for marketers to prioritize cross-departmental requests.",
+  "problem": "Marketers receive random requests from other departments due to their lack of planning.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/marketing/comments/1vi7buj/do_you_regret_going_into_marketing/",
+  "source_posted": "2026-08-07"
+ },
+ {
+  "market": "Marketers",
+  "idea": "Data visualization platform demonstrating marketing solution value and impact to non-marketers.",
+  "problem": "Expert marketing solutions are rejected due to subjective opinions and corporate politics.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/marketing/comments/1vi7buj/do_you_regret_going_into_marketing/",
+  "source_posted": "2026-08-07"
+ },
+ {
+  "market": "Marketers",
+  "idea": "Client collaboration platform for clear communication and sign-off on marketing requirements.",
+  "problem": "Poor communication of requirements leads to unsatisfactory output and rework.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/marketing/comments/1vv8ln4/rant_i_am_so_tired_of_clients_dictating_whats/",
+  "source_posted": "2026-08-22"
+ },
+ {
+  "market": "Marketers",
+  "idea": "Content performance analytics tool to justify marketing decisions and A/B test client suggestions.",
+  "problem": "Clients reject expert work based on subjective 'feelings'; marketers are blamed for poor engagement from client-dictated changes.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/marketing/comments/1vv8ln4/rant_i_am_so_tired_of_clients_dictating_whats/",
+  "source_posted": "2026-08-22"
+ },
+ {
+  "market": "Marketers",
+  "idea": "AI copywriting assistant refining marketer drafts to meet manager expectations.",
+  "problem": "Manager rejects human-written copy in favor of AI output.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/marketing/comments/1vxvchr/my_manager_keeps_rejecting_my_copywriting_and/",
+  "source_posted": "2026-08-25"
+ },
+ {
+  "market": "Marketers",
+  "idea": "Content performance comparison tool measuring engagement of human-written vs. AI-generated copy.",
+  "problem": "Marketer feels devalued when manager prefers AI output, needs to prove human value.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/marketing/comments/1vxvchr/my_manager_keeps_rejecting_my_copywriting_and/",
+  "source_posted": "2026-08-25"
+ },
+ {
+  "market": "Marketers",
+  "idea": "AI content auditor identifying and flagging overtly AI-generated characteristics in marketing copy and visuals.",
+  "problem": "Consumers react negatively to content that is very obviously AI generated, especially images.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/marketing/comments/1vy1lfp/company_loves_to_use_ai_marketers_are_just_here/",
+  "source_posted": "2026-08-25"
+ },
+ {
+  "market": "Marketers",
+  "idea": "Content differentiation platform helping marketers infuse unique brand voice into AI-generated drafts.",
+  "problem": "AI makes everyone sound the same, leading to indistinguishable content.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/marketing/comments/1vy1lfp/company_loves_to_use_ai_marketers_are_just_here/",
+  "source_posted": "2026-08-25"
+ },
+ {
+  "market": "Marketers",
+  "idea": "Marketing platform auditor identifying untracked ad spend and recommending optimal budget allocation.",
+  "problem": "Clients insist on using ineffective platforms or methods (like X Ads without tracking).",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Meta Ads",
+   "TikTok Ads",
+   "Snapchat Ads",
+   "X Ads"
+  ],
+  "source_url": "https://www.reddit.com/r/marketing/comments/1vsgxn1/client_expecting_miracles_with_tiny_ad_spend/",
+  "source_posted": "2026-08-19"
+ },
+ {
+  "market": "Marketers",
+  "idea": "Campaign learning phase tracker visually demonstrating optimal run times for ad platforms.",
+  "problem": "Clients don't understand that campaigns need time to learn and want to pause them too quickly.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/marketing/comments/1vsgxn1/client_expecting_miracles_with_tiny_ad_spend/",
+  "source_posted": "2026-08-19"
+ },
+ {
+  "market": "Marketers",
+  "idea": "Marketing proposal builder quantifying projected campaign ROI and strategic alignment for non-marketing stakeholders.",
+  "problem": "Marketing ideas are rejected by bosses who lack marketing knowledge.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/marketing/comments/1vkvydw/hear_me_out_the_marketing_campaign_wouldve/",
+  "source_posted": "2026-08-10"
+ },
+ {
+  "market": "Marketers",
+  "idea": "Event ROI tracker correlating sponsorship activities with sales pipeline progression.",
+  "problem": "Event sponsorships not materializing directly into work, lack of measurable results.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/marketing/comments/1vtfasa/third_year_sponsoring_a_golf_holehow_to_get_most/",
+  "source_posted": "2026-08-20"
+ },
+ {
+  "market": "Marketers",
+  "idea": "Freelance marketplace connecting marketing leaders with startups seeking part-time expertise.",
+  "problem": "Difficulty for freelance marketers to find suitable startup clients.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/marketing/comments/1vptrsc/from_corporate_to_freelance/",
+  "source_posted": "2026-08-16"
+ },
+ {
+  "market": "Marketers",
+  "idea": "Creative ROI dashboard quantifying business impact of high-quality brand and strategy work.",
+  "problem": "Leadership struggles to measure and understand the value of quality creative work.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/marketing/comments/1vn2za2/how_can_we_convince_leadership_that_creative/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "Marketers",
+  "idea": "Product naming assistant generating strategic names based on market and brand insights.",
+  "problem": "Difficulty in strategically naming products without a creative background.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/marketing/comments/1w1rdwq/how_can_i_better_product_marketing_manager/",
+  "source_posted": "2026-08-29"
+ },
+ {
+  "market": "Agency Owners",
+  "idea": "AI receptionist screens calls to filter spam and qualify leads before connecting.",
+  "problem": "Agency owners miss good leads because they avoid unknown numbers due to spam or unqualified calls.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/agency/comments/1vctjk3/we_won_a_2250month_client_because_we_actually/",
+  "source_posted": "2026-08-01"
+ },
+ {
+  "market": "Agency Owners",
+  "idea": "Conference discovery platform filters industry events by target audience, niche, and decision-maker attendance.",
+  "problem": "Agency owners struggle to identify the most relevant industry-specific conferences and expos to meet decision-makers for their niche.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/agency/comments/1vvqghd/how_do_you_find_time_to_acquire_new_clients_as_a/",
+  "source_posted": "2026-08-22"
+ },
+ {
+  "market": "Agency Owners",
+  "idea": "Pricing justification tool benchmarks agency services against market rates and quantifies value for client proposals.",
+  "problem": "Agency owners struggle to justify higher prices for their services, especially for common offerings like Google Ads/Meta Ads.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/agency/comments/1vesibt/how_i_went_from_charging_250month_to_2250month_in/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Agency Owners",
+  "idea": "AI-powered lead qualification system assesses prospects against predefined criteria for outreach readiness.",
+  "problem": "Rigorous lead qualification based on multiple criteria is a manual and time-intensive process.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/agency/comments/1vxhp5y/how_i_fit_client_acquisition_into_5_hours_a_week/",
+  "source_posted": "2026-08-24"
+ },
+ {
+  "market": "Agency Owners",
+  "idea": "Competitive intelligence platform monitors client AI tool adoption and identifies service gaps for agencies.",
+  "problem": "Agencies are losing potential clients to DIY solutions powered by AI tools like Claude.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/agency/comments/1vkz82w/the_one_client_dilemma/",
+  "source_posted": "2026-08-10"
+ },
+ {
+  "market": "Agency Owners",
+  "idea": "Client communication platform helps agencies articulate value and manage price increase negotiations effectively.",
+  "problem": "Agencies struggle to communicate and justify price increases to existing clients, especially when moving from introductory rates.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/agency/comments/1vcj044/i_raised_prices_and_client_leaves_should_i_get/",
+  "source_posted": "2026-08-01"
+ },
+ {
+  "market": "Agency Owners",
+  "idea": "Contract analysis tool highlights high-risk clauses like unlimited liability indemnification for legal review.",
+  "problem": "Agency owners are overwhelmed by complex, risk-shifting contracts from large clients.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/agency/comments/1vsb5gf/got_hit_with_a_massive_corps_tcs_should_i_push/",
+  "source_posted": "2026-08-19"
+ },
+ {
+  "market": "Agency Owners",
+  "idea": "Risk assessment platform calculates financial impact of accepting specific contract clauses for financial review.",
+  "problem": "Agencies need to quantify the financial risk of unfavorable contract terms to decide whether to accept or price it in.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/agency/comments/1vsb5gf/got_hit_with_a_massive_corps_tcs_should_i_push/",
+  "source_posted": "2026-08-19"
+ },
+ {
+  "market": "Agency Owners",
+  "idea": "Scope management platform helps agencies define and enforce service boundaries to prevent scope creep.",
+  "problem": "Agencies struggle with scope creep, doing 'everything' for clients without commensurate compensation.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/agency/comments/1vijqxs/underpaid/",
+  "source_posted": "2026-08-08"
+ },
+ {
+  "market": "Agency Owners",
+  "idea": "LinkedIn automation tool safely executes outbound campaigns at scale without triggering account restrictions.",
+  "problem": "Agencies need to automate LinkedIn outreach for large lead lists but fear account bans from aggressive tools.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/agency/comments/1vujndi/linkedin_outbound/",
+  "source_posted": "2026-08-21"
+ },
+ {
+  "market": "Agency Owners",
+  "idea": "Billing rules engine automatically categorizes time entries as billable or non-billable based on client contracts.",
+  "problem": "Struggling with what is and isn’t billable, and how/what to bill, causing angst at billing time.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "TimeDoctor Classic",
+   "Clockify"
+  ],
+  "source_url": "https://www.reddit.com/r/agency/comments/1vfo95t/best_practices_for_agency_billing_angst/",
+  "source_posted": "2026-08-04"
+ },
+ {
+  "market": "Agency Owners",
+  "idea": "Client communication logger distinguishes billable consulting calls from non-billable sales calls for time allocation.",
+  "problem": "Differentiating billable consulting time from non-billable sales time for client calls.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/agency/comments/1vfo95t/best_practices_for_agency_billing_angst/",
+  "source_posted": "2026-08-04"
+ },
+ {
+  "market": "Agency Owners",
+  "idea": "Attribution modeling tool separates agency contribution from client's social team visibility in Google Search Console data.",
+  "problem": "Difficulty separating the agency’s contribution from visibility created by the client’s existing social team.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/agency/comments/1vng0nd/to_smma_agency_owner_are_you_showing_the_new/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "Agency Owners",
+  "idea": "Client retention analytics platform uses performance data to predict client churn and alert agencies to at-risk accounts.",
+  "problem": "Difficulty sensing client churn and identifying it early from data.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/agency/comments/1vkvnhu/how_does_client_reporting_actually_work_at_your/",
+  "source_posted": "2026-08-10"
+ },
+ {
+  "market": "Agency Owners",
+  "idea": "Tracking tool verifies 'pay per meeting' outcomes for lead generation agencies in the UK market.",
+  "problem": "Need for transparent tracking and verification of 'pay per meeting' lead generation results.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/agency/comments/1vu94nw/recommendations_for_lead_gen_partners_ukfocused/",
+  "source_posted": "2026-08-21"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Service converting handwritten invoices/ledgers into structured, searchable data.",
+  "problem": "Manual, disorganized records make it hard to understand the business.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1vngg41/bought_a_50_year_old_boomer_business_in_june/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Parallel operations system for new owners to implement modern processes without disrupting existing workflows.",
+  "problem": "Introducing new systems can cause friction with old owners.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1vngg41/bought_a_50_year_old_boomer_business_in_june/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Automated accounts receivable system tracking invoice delivery and alerting businesses to large outstanding balances.",
+  "problem": "Customers claim not to receive invoices, leading to huge unpaid balances.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1vqttzt/took_over_billing_for_a_family_company_found_a/",
+  "source_posted": "2026-08-17"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Collections workflow system integrating legal action options for severely overdue accounts.",
+  "problem": "Businesses need support for escalating collections to legal action.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1vqttzt/took_over_billing_for_a_family_company_found_a/",
+  "source_posted": "2026-08-17"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Pre-employment assessment platform testing basic computer literacy and software proficiency.",
+  "problem": "Job applicants misrepresent their computer skills, leading to hiring mistakes.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1vknavv/turns_out_i_do_need_to_test_people_on_basic/",
+  "source_posted": "2026-08-10"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Compliant international payroll platform generating documentation for bank compliance reviews.",
+  "problem": "Banks flag legitimate international payroll as suspicious, holding funds and requiring extensive proof.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1vz1ihc/my_bank_thinks_im_a_money_launderer/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Financial planning tool simulating business growth scenarios and debt impact.",
+  "problem": "Business owner accumulated significant debt without profitability, leading to financial distress.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1vce5s3/my_father_ruined_his_life_for_his_business/",
+  "source_posted": "2026-08-01"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Dynamic pricing system incentivizing off-peak usage for sports facilities.",
+  "problem": "Peak-time congestion and off-peak underutilization for pickleball clubs impacting profitability.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1w0wp5t/why_are_so_many_pickleball_business_are_on_sale/",
+  "source_posted": "2026-08-28"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Facility scheduling platform optimizing court availability and member demand.",
+  "problem": "Difficulty managing member demand and facility availability during peak hours.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1w0wp5t/why_are_so_many_pickleball_business_are_on_sale/",
+  "source_posted": "2026-08-28"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Business intelligence tool helping service providers understand their true cost of labor.",
+  "problem": "Service providers not accurately valuing their time and effort for complex jobs.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1vvxzno/i_finally_realized_my_friend_has_been_severely/",
+  "source_posted": "2026-08-23"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Referral management system tracking lead quality and automating commission payments.",
+  "problem": "Evaluating the cost and benefit of paying referral fees for reliable leads.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1voh5t7/a_reliable_referral_source_wants_15_of_every_job/",
+  "source_posted": "2026-08-14"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Franchise operations platform automating daily reports and cash reconciliation.",
+  "problem": "Manual, time-consuming administrative tasks burdening franchise owners.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1vnrgj7/dad_owns_a_few_franchise_locations_and_is/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Staffing platform connecting domestic agencies with pre-vetted workers for specific roles.",
+  "problem": "Struggling to find enough reliable workers to fill job openings.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1w0ejil/my_small_business_is_collapsing_and_feels_like_my/",
+  "source_posted": "2026-08-28"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Financial forecasting and alert system predicting cash flow issues and managing refunds.",
+  "problem": "Owe refunds/replacements that I honestly don’t have enough money or workers to cover.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1w0ejil/my_small_business_is_collapsing_and_feels_like_my/",
+  "source_posted": "2026-08-28"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Direct procurement platform enabling multi-location businesses to purchase directly from manufacturers.",
+  "problem": "Desire to bypass wholesalers for beverage procurement for multiple gas stations.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1vhc7uw/i_own_a_couple_dozen_gas_stations_in_the_midwest/",
+  "source_posted": "2026-08-06"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Supply chain management tool optimizing logistics for self-delivery across multiple locations.",
+  "problem": "Managing self-delivery logistics for merchandise to multiple stores.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1vhc7uw/i_own_a_couple_dozen_gas_stations_in_the_midwest/",
+  "source_posted": "2026-08-06"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Pricing strategy tool analyzing cost increases and suggesting optimal, incremental price adjustments.",
+  "problem": "Costs have gone up a lot, and margins have thinned, necessitating price increases.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1w2coce/everyone_says_raise_my_prices_but_my_customers/",
+  "source_posted": "2026-08-30"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Payroll system managing state-specific unemployment insurance exclusions and tax filings.",
+  "problem": "Incorrect processing of unemployment insurance taxes despite exclusion documentation.",
+  "regulated": true,
+  "mentioned_in_thread": [
+   "QuickBooks Online"
+  ],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1vej0nh/stay_away_from_quickbooks_online/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Financial transaction monitoring tool alerting businesses to large, unexpected bank withdrawals.",
+  "problem": "Unauthorized large withdrawal from bank account.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1vej0nh/stay_away_from_quickbooks_online/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Payroll platform with real-time support for resolving critical financial errors and transactions.",
+  "problem": "Inability to stop an incorrect transaction despite immediate contact with support.",
+  "regulated": true,
+  "mentioned_in_thread": [
+   "QuickBooks Online"
+  ],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1vej0nh/stay_away_from_quickbooks_online/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Business idea validation platform using real-world customer feedback to assess market fit.",
+  "problem": "AI generates business ideas that solve problems nobody really has.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1vw5wad/is_anyone_else_getting_tired_of_the_i_built_a/",
+  "source_posted": "2026-08-23"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Review management system providing objective analysis and templated responses for unfair reviews.",
+  "problem": "Difficulty responding to an objectively unfair review.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1w1elki/one_unfair_onestar_review_is_eating_me_alive_and/",
+  "source_posted": "2026-08-29"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Reputation dashboard prominently displaying positive reviews to counteract negative ones.",
+  "problem": "Focusing disproportionately on one bad review despite hundreds of good ones.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1w1elki/one_unfair_onestar_review_is_eating_me_alive_and/",
+  "source_posted": "2026-08-29"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Review generation tool integrating SMS marketing to prompt Google reviews after positive experiences.",
+  "problem": "Increasing Google reviews.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1vrhzq4/i_wanted_to_share_my_marketing_strategy_that_i/",
+  "source_posted": "2026-08-18"
+ },
+ {
+  "market": "Small Business Owners",
+  "idea": "Workflow tool guiding small businesses through commercial real estate purchase from offer to closing.",
+  "problem": "I don’t know what to do next. I’m here having a panic attack about where to even start.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/smallbusiness/comments/1vr6op6/my_landlord_offered_to_sell_me_the_building/",
+  "source_posted": "2026-08-17"
+ },
+ {
+  "market": "Teachers",
+  "idea": "Communication tool detecting and flagging AI-generated content in teacher emails.",
+  "problem": "Teachers are receiving more emails that are AI drafted, making communication less authentic.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Teachers/comments/1vnor8y/im_adding_an_ai_prompt_injected_into_my_email/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "Teachers",
+  "idea": "Email assistant helping teachers craft responses to AI-generated or unusual parent communications.",
+  "problem": "Teachers need a way to manage and respond to AI-drafted emails effectively.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Teachers/comments/1vnor8y/im_adding_an_ai_prompt_injected_into_my_email/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "Teachers",
+  "idea": "Student information system flagging potential duplicate names for identical students.",
+  "problem": "Identical twins with the same first and last name cause confusion on attendance sheets.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Teachers/comments/1vl0x38/just_why/",
+  "source_posted": "2026-08-10"
+ },
+ {
+  "market": "Teachers",
+  "idea": "Discreet communication tool for teachers to report classroom support staff conduct issues to administration.",
+  "problem": "Young teachers find it awkward to confront support staff about inappropriate behavior.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Teachers/comments/1vvsj1s/paras_need_to_get_off_their_phones/",
+  "source_posted": "2026-08-23"
+ },
+ {
+  "market": "Teachers",
+  "idea": "Professional development platform delivering concise, relevant asynchronous training modules to teachers.",
+  "problem": "Professional development meetings are often long, irrelevant, and could be delivered more efficiently.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Teachers/comments/1vdgk3s/my_rant_actuallyworked/",
+  "source_posted": "2026-08-02"
+ },
+ {
+  "market": "Teachers",
+  "idea": "Peer-to-peer platform for teachers to share and rate effective teaching strategies and curriculum insights.",
+  "problem": "Mandatory PD is often unhelpful and a waste of time for experienced teachers.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Teachers/comments/1vhr3m2/i_have_become_what_everyone_warned_me_about_when/",
+  "source_posted": "2026-08-07"
+ },
+ {
+  "market": "Teachers",
+  "idea": "Class roster management system enforcing fire code capacity limits and teacher-defined workload thresholds.",
+  "problem": "Class sizes exceed fire code limits and teacher capacity.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Teachers/comments/1vrbu6f/today_i_had_to_let_our_school_counselor_know_that/",
+  "source_posted": "2026-08-18"
+ },
+ {
+  "market": "Teachers",
+  "idea": "Parent-teacher communication app with resources and tracking for early childhood development milestones like potty training.",
+  "problem": "Preschoolers are not potty trained before kindergarten, and parents claim 'we've tried everything'.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Teachers/comments/1vjupch/several_of_my_preschoolers_will_be_starting/",
+  "source_posted": "2026-08-09"
+ },
+ {
+  "market": "Teachers",
+  "idea": "AI-assisted school scheduling system requiring human review and validation before finalization.",
+  "problem": "AI-generated schedules are inaccurate and cause significant problems.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Teachers/comments/1vrm00w/our_counselors_used_ai_to_create_student_schedules/",
+  "source_posted": "2026-08-18"
+ },
+ {
+  "market": "Teachers",
+  "idea": "Tool helping teachers detect AI-generated content in student submissions, especially when IEPs allow AI.",
+  "problem": "Teachers are overwhelmed and unprepared for IEPs allowing full AI use, leading to confusion about academic integrity and assessment.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Teachers/comments/1w0czv1/student_iep_allows_for_ai_use_in_english_class/",
+  "source_posted": "2026-08-28"
+ },
+ {
+  "market": "Teachers",
+  "idea": "Platform providing guidance and best practices for integrating AI tools into IEP-mandated accommodations.",
+  "problem": "Teachers are 'floored' and 'exhausted' by IEPs allowing full AI use, indicating a lack of clear guidelines and support.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Teachers/comments/1w0czv1/student_iep_allows_for_ai_use_in_english_class/",
+  "source_posted": "2026-08-28"
+ },
+ {
+  "market": "Teachers",
+  "idea": "System automating student attendance and hall pass tracking using student IDs or swipe cards.",
+  "problem": "Public schools lack efficient systems for attendance and hall pass management, unlike private schools using swipe cards.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Teachers/comments/1vzvui1/the_gap_widens/",
+  "source_posted": "2026-08-27"
+ },
+ {
+  "market": "Teachers",
+  "idea": "Lesson planning tool dynamically adjusting plans based on real-time student needs.",
+  "problem": "Teachers cannot adjust instruction and have detailed plans simultaneously.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Teachers/comments/1vqewqe/teachers_can_either_adjust_instruction_for/",
+  "source_posted": "2026-08-17"
+ },
+ {
+  "market": "Teachers",
+  "idea": "Reporting tool quickly documenting differentiated instruction and student adjustments.",
+  "problem": "Documenting adjustments for students is burdensome when also needing fixed plans.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Teachers/comments/1vqewqe/teachers_can_either_adjust_instruction_for/",
+  "source_posted": "2026-08-17"
+ },
+ {
+  "market": "Nurses",
+  "idea": "AI charting assistant summarizing patient status and treatment rationale for nurses.",
+  "problem": "Patient charts are often long and lack concise summaries of critical information.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nursing/comments/1vthzzd/whats_the_funniest_thing_youve_ever_seen/",
+  "source_posted": "2026-08-20"
+ },
+ {
+  "market": "Nurses",
+  "idea": "Knowledge base cataloging emerging unregulated substances and their physiological effects.",
+  "problem": "Unexplained patient symptoms due to undisclosed use of unregulated substances, making diagnosis difficult.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nursing/comments/1vcdm4h/my_first_peptide_patient/",
+  "source_posted": "2026-08-01"
+ },
+ {
+  "market": "Nurses",
+  "idea": "Peer support platform connecting healthcare workers with mentors for Second Victim Syndrome.",
+  "problem": "Healthcare workers suffer severe psychological trauma and isolation after medical errors due to lack of support.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nursing/comments/1vm8lp8/second_victim_syndrome_is_real_the_tragic_case_of/",
+  "source_posted": "2026-08-12"
+ },
+ {
+  "market": "Nurses",
+  "idea": "Hospital program management tool for non-punitive error reporting and staff psychological support.",
+  "problem": "Hospitals lack psychological safety and peer support systems for staff after errors, leading to tragic outcomes.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nursing/comments/1vm8lp8/second_victim_syndrome_is_real_the_tragic_case_of/",
+  "source_posted": "2026-08-12"
+ },
+ {
+  "market": "Nurses",
+  "idea": "Secure, anonymous internal communication channel for nurses to share absurd patient encounters.",
+  "problem": "Nurses encounter bizarre patient statements that require immediate debriefing or stress relief with colleagues.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nursing/comments/1vvk74p/maam_i_did_not_need_to_know_that/",
+  "source_posted": "2026-08-22"
+ },
+ {
+  "market": "Nurses",
+  "idea": "Data collection tool quantifying administrative policy impact on nurse workload and patient outcomes.",
+  "problem": "Healthcare administration prioritizes metrics over patient care and staff well-being, leading to frustration.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nursing/comments/1vuym5g/the_next_time_anyone_asks_you_if_they_should/",
+  "source_posted": "2026-08-22"
+ },
+ {
+  "market": "Nurses",
+  "idea": "Visual reference database documenting rare, extreme wound care presentations and tissue degradation.",
+  "problem": "Nurses encounter extremely graphic or rare medical conditions that are shocking and require specialized knowledge.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nursing/comments/1vfwa67/whats_your_oh_fuck_moment/",
+  "source_posted": "2026-08-05"
+ },
+ {
+  "market": "Nurses",
+  "idea": "Secure telemedicine platform for urgent specialist consultations on critical patient presentations.",
+  "problem": "Nurses need immediate specialist consultation for rare or critical patient conditions.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nursing/comments/1vfwa67/whats_your_oh_fuck_moment/",
+  "source_posted": "2026-08-05"
+ },
+ {
+  "market": "Nurses",
+  "idea": "Reference system for nurses on legal protocols for police interactions and patient information requests.",
+  "problem": "Nurses are lied to by police and threatened, unsure how to handle legal requests.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nursing/comments/1vkvw90/probably_unpopular_opinion_but_cops_are/",
+  "source_posted": "2026-08-10"
+ },
+ {
+  "market": "Nurses",
+  "idea": "Structured symptom documentation for nurses to differentiate anxiety from Myasthenia Gravis.",
+  "problem": "Nurses misinterpret Myasthenia Gravis crises as anxiety, delaying appropriate treatment.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nursing/comments/1w1ac7w/that_fake_seizure_might_not_be_so_fake_after_all/",
+  "source_posted": "2026-08-29"
+ },
+ {
+  "market": "Nurses",
+  "idea": "Safety reporting system for nurses to document and escalate physician interference with protocols.",
+  "problem": "Doctors tell nurses not to call rapids, despite nursing protocols, potentially endangering patients.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nursing/comments/1voqb8o/residents_tail_tucked_between_his_legs/",
+  "source_posted": "2026-08-15"
+ },
+ {
+  "market": "Software Developers",
+  "idea": "A code review tool that identifies and flags AI-generated \"junk codes\" in complex business logic.",
+  "problem": "AI generates junk code that needs extensive review, slowing velocity.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/1w1q7gt/why_does_it_feel_like_some_people_live_in_a/",
+  "source_posted": "2026-08-29"
+ },
+ {
+  "market": "Software Developers",
+  "idea": "An AI code generation platform that ensures consistency across patterns and standards for complex systems.",
+  "problem": "AI struggles with consistency and quality for complex systems and new production-grade development.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/1w1q7gt/why_does_it_feel_like_some_people_live_in_a/",
+  "source_posted": "2026-08-29"
+ },
+ {
+  "market": "Software Developers",
+  "idea": "A knowledge management system that feeds AI with appropriate context for generating high-quality, domain-specific code.",
+  "problem": "AI lacks appropriate knowledge base, leading to code rework.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/1w1q7gt/why_does_it_feel_like_some_people_live_in_a/",
+  "source_posted": "2026-08-29"
+ },
+ {
+  "market": "Software Developers",
+  "idea": "A cost management tool that monitors and optimizes AI token usage for development teams.",
+  "problem": "Development costs are ballooning due to high AI token usage.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/1w1q7gt/why_does_it_feel_like_some_people_live_in_a/",
+  "source_posted": "2026-08-29"
+ },
+ {
+  "market": "Software Developers",
+  "idea": "A static analysis tool that identifies and quantifies technical debt introduced by AI-generated code.",
+  "problem": "AI usage leads to 'slop code' and technical debt.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/1w1q7gt/why_does_it_feel_like_some_people_live_in_a/",
+  "source_posted": "2026-08-29"
+ },
+ {
+  "market": "Software Developers",
+  "idea": "An IP compliance scanner that detects potential intellectual property risks in AI-generated code.",
+  "problem": "IP concerns with AI-generated code, especially when tools are banned.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/1vg0cx8/what_do_you_do_when_a_developer_submits_ai/",
+  "source_posted": "2026-08-05"
+ },
+ {
+  "market": "Software Developers",
+  "idea": "A code ownership and accountability platform that tracks and attributes responsibility for AI-assisted code contributions.",
+  "problem": "Developers cannot be responsible for AI-generated code if forced to generate it too fast.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/1vg0cx8/what_do_you_do_when_a_developer_submits_ai/",
+  "source_posted": "2026-08-05"
+ },
+ {
+  "market": "Software Developers",
+  "idea": "A communication optimization tool that helps developers refine technical proposals for non-technical management without endless AI iteration.",
+  "problem": "AI constantly suggests changes, leading to an endless optimization loop for communications.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/1vt2a3b/i_put_all_of_my_communications_through_ai_first/",
+  "source_posted": "2026-08-19"
+ },
+ {
+  "market": "Software Developers",
+  "idea": "A developer platform that identifies and suggests complex, non-CRUD tasks when AI handles routine code generation.",
+  "problem": "Developers feel unfulfilled doing only CRUD work when AI writes most of the code.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/1vn77j4/hitting_a_plateau_after_13_years_is_it_time_for/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "Software Developers",
+  "idea": "An AI project automation platform that streamlines repetitive tasks like LLM-wrappers and RAG implementations.",
+  "problem": "AI projects often involve repetitive and uninteresting tasks like LLM-wrappers and RAG.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/1vpg59k/followup_what_this_year_has_been_like_as_a/",
+  "source_posted": "2026-08-15"
+ },
+ {
+  "market": "Software Developers",
+  "idea": "A developer well-being tool that monitors AI usage patterns to prevent burnout and manage mental load.",
+  "problem": "AI's ease of use leads to compulsive overworking and increased mental load.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/1vmfijr/addiction_like_sympthoms_from_ai/",
+  "source_posted": "2026-08-12"
+ },
+ {
+  "market": "Software Developers",
+  "idea": "An AI code analysis tool that explains the rationale behind AI-generated code complexity and assumptions.",
+  "problem": "AI generates complex code that developers don't fully grasp, and AI tools 'push back' on simplification.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Codex"
+  ],
+  "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/1vvj60z/new_codebase_ai_code_smells/",
+  "source_posted": "2026-08-22"
+ },
+ {
+  "market": "Software Developers",
+  "idea": "An AI code refactoring tool that simplifies AI-generated code while preserving functionality and explaining changes.",
+  "problem": "AI-generated code is overly complex, and AI tools resist simplification attempts.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Codex"
+  ],
+  "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/1vvj60z/new_codebase_ai_code_smells/",
+  "source_posted": "2026-08-22"
+ },
+ {
+  "market": "Software Developers",
+  "idea": "A system dependency mapping tool that clarifies project scope and impact for engineers in large organizations.",
+  "problem": "Engineers are told problems are out of scope, but they still affect delivery.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/1vwdh87/joined_a_fortune_500_company_and_struggling_to/",
+  "source_posted": "2026-08-23"
+ },
+ {
+  "market": "Software Developers",
+  "idea": "A developer impact reporting tool that translates technical contributions into business value for non-technical managers.",
+  "problem": "Managers don't understand developer contributions, leading to poor career guidance.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/1vt504g/realized_my_manager_doesnt_understand_what_i_do/",
+  "source_posted": "2026-08-20"
+ },
+ {
+  "market": "Software Developers",
+  "idea": "A platform that provides deterministic execution and version control for AI agent workflows.",
+  "problem": "AI tools are uncontrollable and essentially nondeterministic in behavior.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/1w1l8v4/have_been_using_genai_for_a_few_years_now_and_it/",
+  "source_posted": "2026-08-29"
+ },
+ {
+  "market": "Software Developers",
+  "idea": "A validation layer for AI agents that ensures adherence to user-defined specifications and constraints.",
+  "problem": "AI models ignore user specifications and act contrary to them.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ExperiencedDevs/comments/1w1l8v4/have_been_using_genai_for_a_few_years_now_and_it/",
+  "source_posted": "2026-08-29"
+ },
+ {
+  "market": "Product Managers",
+  "idea": "Product portfolio tool visualizing financial impact on revenue and profit.",
+  "problem": "PMs struggle to articulate the financial impact of their work and connect it directly to company revenue or profit.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ProductManagement/comments/1vd78x2/3_unpopular_pm_opinions/",
+  "source_posted": "2026-08-02"
+ },
+ {
+  "market": "Product Managers",
+  "idea": "Workflow orchestration platform integrating FDE activities with PM and development processes.",
+  "problem": "Forward Deployed Engineers (FDEs) are bypassing PMs and dev teams, building and deploying without consultation, creating oversight issues.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ProductManagement/comments/1vj6yeu/my_pm_role_seems_to_be_quite_threatened_my/",
+  "source_posted": "2026-08-08"
+ },
+ {
+  "market": "Product Managers",
+  "idea": "Software tool helping PMs answer 'Why this feature?' and 'How do we measure success?'.",
+  "problem": "PMs struggle to articulate strong, defensible recommendations under pressure.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ProductManagement/comments/1vhslhl/new_pm_struggling_with_structured_product/",
+  "source_posted": "2026-08-07"
+ },
+ {
+  "market": "Product Managers",
+  "idea": "Market feedback tool identifying what users will pay for, beyond interviews/signups.",
+  "problem": "PMs struggle to confirm true market demand and willingness to pay.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ProductManagement/comments/1vlf5io/12_years_as_a_pm_then_i_built_my_own_product/",
+  "source_posted": "2026-08-11"
+ },
+ {
+  "market": "Product Managers",
+  "idea": "Data analysis tool automating insights from product usage for PMs.",
+  "problem": "PMs struggle to find time for data analysis and metrics tracking.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ProductManagement/comments/1vzw3h4/34_of_pms_say_they_have_no_primary_metric_theyre/",
+  "source_posted": "2026-08-27"
+ },
+ {
+  "market": "Product Managers",
+  "idea": "Research and validation tool helping PMs address engineering pushback on research needs.",
+  "problem": "PMs face pushback from engineers requesting more research or questioning the approach.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ProductManagement/comments/1vlkew4/everyone_on_my_team_is_checked_out_how_do_i/",
+  "source_posted": "2026-08-11"
+ },
+ {
+  "market": "Product Managers",
+  "idea": "PM performance tool quantifying team contributions and strategic impact.",
+  "problem": "Product Lead lacks visibility into PM team's day-to-day work and provides no strategic challenge.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ProductManagement/comments/1vsk6p9/struggling_with_a_product_lead_who_has_zero/",
+  "source_posted": "2026-08-19"
+ },
+ {
+  "market": "Product Managers",
+  "idea": "Strategic roadmap tool integrating team priorities and providing automated strategic challenge.",
+  "problem": "There is no overall product roadmap and strategic direction is missing.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ProductManagement/comments/1vsk6p9/struggling_with_a_product_lead_who_has_zero/",
+  "source_posted": "2026-08-19"
+ },
+ {
+  "market": "Product Managers",
+  "idea": "Prototype handoff tool ensuring manager-coded prototypes meet development team standards.",
+  "problem": "Managers are 'vibe coding' prototypes and handing them off to devs, raising questions about productivity gains.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ProductManagement/comments/1vfzusl/people_who_have_pmmiddle_managers_vibe_coding_how/",
+  "source_posted": "2026-08-05"
+ },
+ {
+  "market": "Product Managers",
+  "idea": "PM workflow tool automating detail tracking and minimizing meeting time for introverted PMs.",
+  "problem": "New PMs struggle with organization, remembering details, and dislike meetings and Jira.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Jira"
+  ],
+  "source_url": "https://www.reddit.com/r/ProductManagement/comments/1vt3nqw/being_forced_into_a_pm_role_after_being_a_ux/",
+  "source_posted": "2026-08-20"
+ },
+ {
+  "market": "Product Managers",
+  "idea": "Product strategy tool auto-generating PowerPoint decks from structured inputs.",
+  "problem": "New PMs dislike filling out PowerPoint product strategy decks.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "PowerPoint"
+  ],
+  "source_url": "https://www.reddit.com/r/ProductManagement/comments/1vt3nqw/being_forced_into_a_pm_role_after_being_a_ux/",
+  "source_posted": "2026-08-20"
+ },
+ {
+  "market": "Product Managers",
+  "idea": "Financial modeling tool linking product features to unit economics and P&L statements.",
+  "problem": "PMs struggle to tie products and features to unit economics and P&L.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ProductManagement/comments/1vjq8i4/which_of_these_5_pm_topics_make_you_sweat_a_bit/",
+  "source_posted": "2026-08-09"
+ },
+ {
+  "market": "Product Managers",
+  "idea": "Business case generator structuring funding requests and anticipating C-level challenges.",
+  "problem": "Business case meetings are challenging, with C-level executives asking tough questions about ROI.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ProductManagement/comments/1vjq8i4/which_of_these_5_pm_topics_make_you_sweat_a_bit/",
+  "source_posted": "2026-08-09"
+ },
+ {
+  "market": "Product Managers",
+  "idea": "PM requirements generation tool keeping pace with AI-accelerated development cycles.",
+  "problem": "Product Managers are becoming a bottleneck for requirements due to the speed of AI-driven development.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ProductManagement/comments/1w0dtci/software_development_the_role_of_developers_and/",
+  "source_posted": "2026-08-28"
+ },
+ {
+  "market": "Product Managers",
+  "idea": "AI-powered testing orchestration tool managing increased load from AI-generated code.",
+  "problem": "Testers are overwhelmed by the volume of work generated by AI-accelerated development.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ProductManagement/comments/1w0dtci/software_development_the_role_of_developers_and/",
+  "source_posted": "2026-08-28"
+ },
+ {
+  "market": "Product Managers",
+  "idea": "Compliance-as-a-service platform for payroll-related filings and regulatory updates in embedded solutions.",
+  "problem": "The burden of managing payroll filings and compliance when integrating payroll into a product.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ProductManagement/comments/1vqy4t7/have_you_tried_building_payroll_yourself/",
+  "source_posted": "2026-08-17"
+ },
+ {
+  "market": "Financial Advisors",
+  "idea": "A client presentation tool that visually demonstrates portfolio resilience during historical market downturns with specific withdrawal scenarios.",
+  "problem": "Clients fear market downturns and need visual proof their financial plan can withstand them.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/CFP/comments/1vno170/my_favorite_conversation/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "Financial Advisors",
+  "idea": "A financial planning software that models and visualizes a \"war chest\" strategy for covering 3-5 years of client distributions.",
+  "problem": "Advisors need to clearly show clients how a 'war chest' protects their withdrawals during market downturns.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/CFP/comments/1vno170/my_favorite_conversation/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "Financial Advisors",
+  "idea": "A lead generation service that provides transparent, non-perpetual fee structures for advisor client referrals.",
+  "problem": "Existing lead generation services have predatory, unclear, and perpetual fee structures that disadvantage advisors.",
+  "regulated": true,
+  "mentioned_in_thread": [
+   "FINNY"
+  ],
+  "source_url": "https://www.reddit.com/r/CFP/comments/1vlxc7p/finny_am_i_the_only_who_thinks_this_is_insane/",
+  "source_posted": "2026-08-11"
+ },
+ {
+  "market": "Financial Advisors",
+  "idea": "A client reception management system that helps bank advisors manage walk-in clients and enforce appointment scheduling.",
+  "problem": "Walk-in clients disrupting scheduled appointments and expecting immediate service.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/CFP/comments/1vdh0v3/bank_advisor_trimming/",
+  "source_posted": "2026-08-02"
+ },
+ {
+  "market": "Financial Advisors",
+  "idea": "A policy management system that facilitates assigning licensed bankers as agents on small policies, including referral and renewal tracking.",
+  "problem": "Licensed bankers are not listed as agents and lack incentive/ability to manage small policies.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/CFP/comments/1vdh0v3/bank_advisor_trimming/",
+  "source_posted": "2026-08-02"
+ },
+ {
+  "market": "Financial Advisors",
+  "idea": "A marketplace platform that connects small financial advisory firms looking to buy or sell books of business or AUM.",
+  "problem": "Difficulty finding a legitimate marketplace to buy or sell small books of business.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/CFP/comments/1vixpkm/buy_book/",
+  "source_posted": "2026-08-08"
+ },
+ {
+  "market": "Financial Advisors",
+  "idea": "A 401(k) locator service that helps financial advisors find missing retirement accounts without requiring client contact with former employers.",
+  "problem": "Difficulty locating missing 401ks when clients lack records and don't want to contact former HR.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/CFP/comments/1vlmo2d/need_help_finding_a_missing_401k/",
+  "source_posted": "2026-08-11"
+ },
+ {
+  "market": "Financial Advisors",
+  "idea": "A fee management system that automates conditional fee waivers based on AUM thresholds and tracks client asset transfer commitments.",
+  "problem": "Navigating conditional fee waivers for planning services based on AUM thresholds during client onboarding.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/CFP/comments/1vevhl7/waiving_planning_fees/",
+  "source_posted": "2026-08-04"
+ },
+ {
+  "market": "Operations Managers",
+  "idea": "Automation tool for SAP to Excel data transfer, generating monthly reports for supply chain interns.",
+  "problem": "Interns spend significant time on repetitive data entry and reporting tasks, limiting learning opportunities.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Power Query"
+  ],
+  "source_url": "https://www.reddit.com/r/supplychain/comments/1vwtivf/running_out_of_things_to_do_in_my_supply_chain/",
+  "source_posted": "2026-08-24"
+ },
+ {
+  "market": "Operations Managers",
+  "idea": "Spare parts inventory system forecasting intermittent demand for critical, slow-moving items.",
+  "problem": "Traditional forecasting methods fail for critical spare parts with extremely low, intermittent demand.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Croston/SBA/TSB",
+   "Verdantis"
+  ],
+  "source_url": "https://www.reddit.com/r/supplychain/comments/1vgz35s/how_would_you_forecast_a_spare_part_that_only/",
+  "source_posted": "2026-08-06"
+ },
+ {
+  "market": "Operations Managers",
+  "idea": "Inventory planning tool integrating asset criticality and downtime cost into spare parts reorder point calculations.",
+  "problem": "Setting reorder points to zero for critical, slow-moving parts is risky despite low historical demand.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Verdantis"
+  ],
+  "source_url": "https://www.reddit.com/r/supplychain/comments/1vgz35s/how_would_you_forecast_a_spare_part_that_only/",
+  "source_posted": "2026-08-06"
+ },
+ {
+  "market": "Operations Managers",
+  "idea": "Study companion generating practice questions and explanations from user-provided materials for certification exams.",
+  "problem": "Difficulty in self-studying for CSCP, needing structured practice and testing from custom materials.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/supplychain/comments/1vg8rdw/passed_cscp_august_2026/",
+  "source_posted": "2026-08-05"
+ },
+ {
+  "market": "Operations Managers",
+  "idea": "Certification exam prep tool training users to identify 'most comprehensive solution' in ambiguous, scenario-based questions.",
+  "problem": "Need to understand how to answer questions 'the way ASCM would want you to' and identify the 'most comprehensive solution'.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/supplychain/comments/1vjc4z5/passed_cscp_today/",
+  "source_posted": "2026-08-09"
+ },
+ {
+  "market": "Operations Managers",
+  "idea": "Lead time management system automatically updating item master lead times from Goods Receipt history and supplier performance.",
+  "problem": "Discrepancy between static item master lead times and actual supplier delivery performance, leading to operational issues.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/supplychain/comments/1vm9ot7/why_do_mro_buyers_still_trust_supplier_lead_times/",
+  "source_posted": "2026-08-12"
+ },
+ {
+  "market": "Operations Managers",
+  "idea": "Supplier performance analytics providing insights to challenge/negotiate lead times using historical delivery data.",
+  "problem": "Lack of a systematic way to challenge and correct inaccurate supplier lead times based on real-world data.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/supplychain/comments/1vm9ot7/why_do_mro_buyers_still_trust_supplier_lead_times/",
+  "source_posted": "2026-08-12"
+ },
+ {
+  "market": "Operations Managers",
+  "idea": "Supplier qualification platform automating moisture content verification from kiln logs against destination market standards.",
+  "problem": "Warping and split joints in furniture due to incorrect moisture content, discovered post-delivery.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/supplychain/comments/1vou0wr/quality_control_checkpoints_before_qualifying_a/",
+  "source_posted": "2026-08-15"
+ },
+ {
+  "market": "Operations Managers",
+  "idea": "Supply chain compliance tool validating FSC chain-of-custody numbers on invoices against official databases.",
+  "problem": "Difficulty tracing FSC certification to actual chain-of-custody numbers on invoices.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/supplychain/comments/1vou0wr/quality_control_checkpoints_before_qualifying_a/",
+  "source_posted": "2026-08-15"
+ },
+ {
+  "market": "Operations Managers",
+  "idea": "Freight optimization calculating total landed cost for bulky, low-value items, considering CBM and port delays.",
+  "problem": "High shipping costs for bulky, low-value items due to CBM and unpredictable sea freight rates.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/supplychain/comments/1vyxd84/the_math_on_importing_lowvalue_bulky_items_is/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Operations Managers",
+  "idea": "Supply chain visibility tool providing predictive analytics for port delays and transit time variability.",
+  "problem": "Unpredictable transit times and port delays causing operational chaos and stress.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/supplychain/comments/1vyxd84/the_math_on_importing_lowvalue_bulky_items_is/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Operations Managers",
+  "idea": "Sourcing decision support comparing total cost of ownership for global versus local suppliers, including chaos factors.",
+  "problem": "Difficulty in accurately comparing global vs. local sourcing when 'chaos' factors outweigh per-unit cost savings.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/supplychain/comments/1vyxd84/the_math_on_importing_lowvalue_bulky_items_is/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Real Estate Agents",
+  "idea": "Comp analysis tool flagging appraisers operating outside their typical geographic or MLS area.",
+  "problem": "Appraisers from outside the area may not have access to local comps or understanding of local market nuances, leading to inaccurate appraisals.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Zillow",
+   "Realtor.com",
+   "RPR"
+  ],
+  "source_url": "https://www.reddit.com/r/realtors/comments/1vibz7c/we_challenged_an_appraisal_and_the_appraiser/",
+  "source_posted": "2026-08-07"
+ },
+ {
+  "market": "Real Estate Agents",
+  "idea": "Property data verification tool cross-referencing builder floorplans with appraisal reports for feature accuracy.",
+  "problem": "Discrepancies in property features (like bedroom count) between builder plans and appraiser's assessment lead to valuation issues.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/realtors/comments/1vibz7c/we_challenged_an_appraisal_and_the_appraiser/",
+  "source_posted": "2026-08-07"
+ },
+ {
+  "market": "Real Estate Agents",
+  "idea": "Secure access management system providing temporary, trackable entry codes for contractors and verified agents.",
+  "problem": "Homeowners are concerned about unauthorized entry and potential theft during showings or open houses.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/realtors/comments/1w1ctr6/realtor_client_entered_my_house_thinking_it_was/",
+  "source_posted": "2026-08-29"
+ },
+ {
+  "market": "Real Estate Agents",
+  "idea": "Video content platform streamlining batch recording and scripting for common real estate questions.",
+  "problem": "Realtors struggle to consistently create video content due to time constraints and discomfort with being on camera.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/realtors/comments/1vhov07/if_you_hate_being_on_camera_but_keep_getting_told/",
+  "source_posted": "2026-08-07"
+ },
+ {
+  "market": "Real Estate Agents",
+  "idea": "Home improvement valuation tool estimating market value impact of specific renovations like an extra closet.",
+  "problem": "Homeowners and agents need to quantify the value increase of specific home improvements like an extra closet for equitable distribution or pricing.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/realtors/comments/1vvrssy/how_much_does_an_extra_closet_increase_value_in_a/",
+  "source_posted": "2026-08-22"
+ },
+ {
+  "market": "Real Estate Agents",
+  "idea": "Listing instruction enforcement tool preventing showing requests if agents haven't acknowledged specific private notes.",
+  "problem": "Showing agents ignore specific instructions in private listing notes, leading to frustration and inefficient scheduling.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "ShowingTime"
+  ],
+  "source_url": "https://www.reddit.com/r/realtors/comments/1vr03ml/i_am_so_sick_of_the_lack_of_professionalism_in/",
+  "source_posted": "2026-08-17"
+ },
+ {
+  "market": "Real Estate Agents",
+  "idea": "CRM integration prompting buyer agents to introduce themselves and discuss client needs with listing agents.",
+  "problem": "Buyer agents fail to proactively introduce themselves or discuss their clients' specific needs with listing agents.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/realtors/comments/1vgrhgb/the_standard_of_agents/",
+  "source_posted": "2026-08-06"
+ },
+ {
+  "market": "Real Estate Agents",
+  "idea": "Image analysis tool identifying and flagging suboptimal listing photos, such as covered tubs.",
+  "problem": "Listing photos often obscure important features like bathtubs with shower curtains, frustrating potential buyers.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/realtors/comments/1w26gkb/a_note_about_pictures_of_bathrooms/",
+  "source_posted": "2026-08-30"
+ },
+ {
+  "market": "Real Estate Agents",
+  "idea": "Pipeline management tool visualizing long-term impact of non-transactional efforts on future commissions.",
+  "problem": "Agents feel like they're spinning their wheels during slow periods, unable to see the future payoff of their current efforts.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/realtors/comments/1vr7b0m/a_quick_reminder_for_anyone_grinding_through_the/",
+  "source_posted": "2026-08-17"
+ },
+ {
+  "market": "Real Estate Agents",
+  "idea": "Financial planning application supporting commission-based agents to budget and manage irregular income.",
+  "problem": "Families of real estate agents are nervous about living on commission and need strategies to manage irregular income.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/realtors/comments/1vpnx7z/how_to_support_my_husband_as_a_realtor/",
+  "source_posted": "2026-08-16"
+ },
+ {
+  "market": "Real Estate Agents",
+  "idea": "Guided onboarding platform providing new agents structured action plans and niche-specific systems.",
+  "problem": "New agents are overwhelmed by too many general ideas without clear systems or direction, leading to inaction.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/realtors/comments/1vlyzmb/first_year_no_sales_no_nothing/",
+  "source_posted": "2026-08-12"
+ },
+ {
+  "market": "Real Estate Agents",
+  "idea": "Client-facing AI assistant providing explanation support for real estate documents with agent-configurable disclaimers.",
+  "problem": "Clients use AI to analyze documents and raise irrelevant concerns, forcing agents to spend time countering AI's misinterpretations.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/realtors/comments/1w09gi2/client_overuse_of_ai/",
+  "source_posted": "2026-08-27"
+ },
+ {
+  "market": "Real Estate Agents",
+  "idea": "Lead generation service identifying and providing contact information for off-market or expired MLS listings.",
+  "problem": "New agents struggle with consistent deal flow and cannot afford expensive lead generation services.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/realtors/comments/1vlnxnj/this_is_hard/",
+  "source_posted": "2026-08-11"
+ },
+ {
+  "market": "Real Estate Agents",
+  "idea": "Social media content generation and scheduling tool for real estate agents who dislike posting.",
+  "problem": "New agents recognize the need for social media presence but dislike the effort involved in posting.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/realtors/comments/1vlnxnj/this_is_hard/",
+  "source_posted": "2026-08-11"
+ },
+ {
+  "market": "Real Estate Agents",
+  "idea": "Showing management system enforcing strict adherence to appointment times for occupied properties, logging agent entry/exit.",
+  "problem": "Buyer agents enter occupied homes without respecting scheduled appointment times, causing seller discomfort and security concerns.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/realtors/comments/1vsl5by/im_a_relatively_new_agent_and_i_have_a_listing_my/",
+  "source_posted": "2026-08-19"
+ },
+ {
+  "market": "Real Estate Agents",
+  "idea": "Agent conduct reporting tool for formally documenting and addressing breaches of showing protocols.",
+  "problem": "New agents are unsure how to address buyer agents who violate showing protocols for occupied homes.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/realtors/comments/1vsl5by/im_a_relatively_new_agent_and_i_have_a_listing_my/",
+  "source_posted": "2026-08-19"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "Legal writing assistant identifying and correcting grammar and stylistic errors.",
+  "problem": "A lack of understanding of proper grammar and sentence structure puts the firm at risk.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Grammarly",
+   "Garner (The Redbook)"
+  ],
+  "source_url": "https://www.reddit.com/r/LawFirm/comments/1vtuika/associate_lawyer_needs_resources_for_vocabulary/",
+  "source_posted": "2026-08-20"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "Smart form assistant ensuring all relevant areas of legal forms are completed.",
+  "problem": "An associate has difficulty completing all relevant areas of forms, often skipping things.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/LawFirm/comments/1vtuika/associate_lawyer_needs_resources_for_vocabulary/",
+  "source_posted": "2026-08-20"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "Legal payment processor reliably accepting large client payments for new firms.",
+  "problem": "LawPay is rejecting large client payments for a new firm, causing cash flow issues.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "LawPay"
+  ],
+  "source_url": "https://www.reddit.com/r/LawFirm/comments/1vyacr7/lawpay_doesnt_want_money/",
+  "source_posted": "2026-08-25"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "HIPAA compliant e-signature platform for secure legal documents.",
+  "problem": "A law firm needs a simple, reliable, and secure e-signature solution for client agreements.",
+  "regulated": true,
+  "mentioned_in_thread": [
+   "HippoSign"
+  ],
+  "source_url": "https://www.reddit.com/r/LawFirm/comments/1vsh1m1/i_am_moving_all_my_contracts_to_esign_any_good/",
+  "source_posted": "2026-08-19"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "Customizable case management system allowing lawyers to build specific automations.",
+  "problem": "Existing case management systems are too rigid, requiring significant effort to achieve desired automations.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Smokeball",
+   "Airtable",
+   "SuiteDash",
+   "Gavel.io",
+   "Make",
+   "n8n"
+  ],
+  "source_url": "https://www.reddit.com/r/LawFirm/comments/1ve0nln/anyone_else_usingbuilding_their_own_custom/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "AI legal assistant drafting bespoke legal documents for human review.",
+  "problem": "Need for efficient drafting of various legal documents like letters, memos, and demand letters.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/LawFirm/comments/1ve0nln/anyone_else_usingbuilding_their_own_custom/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "Document assembly tool automatically assembling folders, documents, and letters based on workflows.",
+  "problem": "Manual assembly of documents and folders is time-consuming and prone to error.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Gavel.io"
+  ],
+  "source_url": "https://www.reddit.com/r/LawFirm/comments/1ve0nln/anyone_else_usingbuilding_their_own_custom/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "AI voice agent handling after-hours inquiries and integrating responses into a CRM.",
+  "problem": "Need for automated after-hours client interaction and task creation within a CRM.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Twilio"
+  ],
+  "source_url": "https://www.reddit.com/r/LawFirm/comments/1ve0nln/anyone_else_usingbuilding_their_own_custom/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "Self-hostable platform for legal firms to build custom CRMs and automations.",
+  "problem": "Reliance on third-party tools for compatibility and full customizability is a limitation.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "n8n"
+  ],
+  "source_url": "https://www.reddit.com/r/LawFirm/comments/1ve0nln/anyone_else_usingbuilding_their_own_custom/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "Service connecting new solo practitioners with overflow work from established firms.",
+  "problem": "New solo practitioners need work to sustain their practice while setting up.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/LawFirm/comments/1vfiex1/am_i_crazy_to_think_about_opening_own_law_firm/",
+  "source_posted": "2026-08-04"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "Mental health support platform for legal professionals experiencing burnout and stress.",
+  "problem": "Debilitating anxiety and depression are common among legal professionals.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/LawFirm/comments/1vulgth/to_any_of_you_considering_leaving_law_firms_as/",
+  "source_posted": "2026-08-21"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "Client intake system pre-qualifying potential clients before free consultation.",
+  "problem": "Solo attorneys waste time on free consultations with people who are not ready to commit.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/LawFirm/comments/1vuklrj/to_give_free_initial_consultations_or_not/",
+  "source_posted": "2026-08-21"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "Document automation platform simplifying template-based legal document creation for family law.",
+  "problem": "Repetitive task of filling in templates for family law documents.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/LawFirm/comments/1vi2w4u/am_i_crazy_for_actually_kind_of_liking_family_law/",
+  "source_posted": "2026-08-07"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "Litigation strategy tool analyzing motion success probabilities given client budget constraints.",
+  "problem": "Deciding which motions to file when clients have limited budgets and success rates are low.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/LawFirm/comments/1vztzj3/should_i_be_thinking_like_this_as_defense_counsel/",
+  "source_posted": "2026-08-27"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "HR compliance tool providing employers with scenario-based reference support on FMLA and maternity leave.",
+  "problem": "Employers lack basic knowledge of FMLA and maternity leave obligations.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Lawyertalk/comments/1vnchul/ffuck_my_client/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "Compliance tool identifying specific local court filing requirements, including unwritten clerk-invented rules.",
+  "problem": "Motions are rejected due to unwritten or obscure local rules/clerk interpretations.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Lawyertalk/comments/1vokm4s/clerks_inventing_rules_again/",
+  "source_posted": "2026-08-14"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "Legal research platform providing actionable reference support on court-specific procedural nuances for filings.",
+  "problem": "Clerks cannot provide legal advice on procedural requirements, leaving lawyers without answers.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Lawyertalk/comments/1vokm4s/clerks_inventing_rules_again/",
+  "source_posted": "2026-08-14"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "Legal research tool compiling and refuting common sovereign citizen arguments and legal theories.",
+  "problem": "Attorneys need resources to effectively counter arguments from sovereign citizen pro se plaintiffs.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Lawyertalk/comments/1vtiqd0/1968_4th_edition_sovereign_citizens_literally/",
+  "source_posted": "2026-08-20"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "Document review tool providing verifiable proof of user engagement and time spent on files.",
+  "problem": "Inability to prove time spent on document review, leading to accusations of not working or billing fraud.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Lawyertalk/comments/1vp2mwu/im_an_idiot/",
+  "source_posted": "2026-08-15"
+ },
+ {
+  "market": "Attorneys",
+  "idea": "Firm-wide AI governance platform tracking and auditing AI tool usage for compliance and transparency.",
+  "problem": "Lack of clear oversight and tracking of AI tool usage within a firm, leading to distrust and accusations.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Lawyertalk/comments/1vp2mwu/im_an_idiot/",
+  "source_posted": "2026-08-15"
+ },
+ {
+  "market": "Consultants",
+  "idea": "Per diem expense tool applying government-regulated meal allowances for various locations.",
+  "problem": "Difficulty setting fair and justifiable meal expense limits.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "GSA"
+  ],
+  "source_url": "https://www.reddit.com/r/consulting/comments/1vynhdi/125_per_meal_limit_normal_or_too_strict/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Consultants",
+  "idea": "AI platform generating strategy decks and financial models from raw data with high accuracy.",
+  "problem": "Time-consuming manual creation of strategy decks and financial models.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "n8n"
+  ],
+  "source_url": "https://www.reddit.com/r/consulting/comments/1vf7cu0/as_a_strategy_consultant_claude_code_and_cowork/",
+  "source_posted": "2026-08-04"
+ },
+ {
+  "market": "Consultants",
+  "idea": "Platform for creating and sharing custom AI instruction sets for consulting tasks.",
+  "problem": "Repetitive manual execution of common consulting tasks.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/consulting/comments/1vnhlhn/what_claude_skills_are_you_all_using/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "Consultants",
+  "idea": "Project planning and estimation tool forecasting timelines and resources for complex, multi-supplier engagements.",
+  "problem": "Partners are selling undeliverable work with unrealistic timelines.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/consulting/comments/1vs3vuj/partner_is_selling_undeliverable_work_thinking_of/",
+  "source_posted": "2026-08-18"
+ },
+ {
+  "market": "Consultants",
+  "idea": "Proposal validation platform assessing feasibility and risk of aggressive timelines and fixed-price contracts.",
+  "problem": "Management is ignoring warnings about undeliverable work.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/consulting/comments/1vs3vuj/partner_is_selling_undeliverable_work_thinking_of/",
+  "source_posted": "2026-08-18"
+ },
+ {
+  "market": "Consultants",
+  "idea": "Contract management system tracking scope, changes, and penalty clauses for fixed-price consulting projects.",
+  "problem": "Fixed-price contracts with penalty clauses are being signed for undeliverable work.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/consulting/comments/1vs3vuj/partner_is_selling_undeliverable_work_thinking_of/",
+  "source_posted": "2026-08-18"
+ },
+ {
+  "market": "Consultants",
+  "idea": "Project plan generator creating detailed, credible delivery models beyond generic AI-generated slides.",
+  "problem": "Current plans are poorly formatted and generic.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/consulting/comments/1vs3vuj/partner_is_selling_undeliverable_work_thinking_of/",
+  "source_posted": "2026-08-18"
+ },
+ {
+  "market": "Consultants",
+  "idea": "Internal cybersecurity posture management platform ensuring consulting firms practice what they preach.",
+  "problem": "A cybersecurity consulting firm keeps getting breached.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "EY"
+  ],
+  "source_url": "https://www.reddit.com/r/consulting/comments/1vmn1j9/ey_keeps_getting_breached/",
+  "source_posted": "2026-08-12"
+ },
+ {
+  "market": "Consultants",
+  "idea": "PowerPoint add-in using AI to format unformatted text into professional slides.",
+  "problem": "Manually formatting PowerPoint slides from unformatted text is time-consuming.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/consulting/comments/1vqg0h7/using_claude_as_a_powerpoint_magic_wand/",
+  "source_posted": "2026-08-17"
+ },
+ {
+  "market": "Consultants",
+  "idea": "PowerPoint add-in generating data-driven slides from Excel tables.",
+  "problem": "Manually creating tracker or timeline slides from Excel data is inefficient.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/consulting/comments/1vqg0h7/using_claude_as_a_powerpoint_magic_wand/",
+  "source_posted": "2026-08-17"
+ },
+ {
+  "market": "Consultants",
+  "idea": "Knowledge management tool linking and retrieving granular project details from notes and meeting transcripts.",
+  "problem": "Struggling to retain specific project details (assumptions, client comments) even with notes, impacting work speed.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/consulting/comments/1vxlk3d/struggling_to_retain_project_details/",
+  "source_posted": "2026-08-25"
+ },
+ {
+  "market": "Consultants",
+  "idea": "AI assistant automatically formatting graphs with consulting best practices like axis names and bar highlighting.",
+  "problem": "It takes too long to manually format graphs to consulting best practices.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/consulting/comments/1vwspot/looking_for_claude_skills_that_capture_the/",
+  "source_posted": "2026-08-24"
+ },
+ {
+  "market": "Consultants",
+  "idea": "Claude-powered tool sharpening articulation and transforming headings into insight-led statements.",
+  "problem": "Achieving sharp articulation and insight-led statements in writing is time-consuming and undervalued.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/consulting/comments/1vwspot/looking_for_claude_skills_that_capture_the/",
+  "source_posted": "2026-08-24"
+ },
+ {
+  "market": "E-commerce Sellers",
+  "idea": "Platform connecting e-commerce sellers with vetted marketing agencies, emphasizing back-channel references.",
+  "problem": "E-commerce sellers struggle to find reputable marketing agencies/freelancers and avoid those good at personal branding but poor at execution.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ecommerce/comments/1viqs3c/are_all_agencys_a_scam/",
+  "source_posted": "2026-08-08"
+ },
+ {
+  "market": "E-commerce Sellers",
+  "idea": "Content verification tool analyzing agency-provided content for AI generation and product relevance.",
+  "problem": "Agencies deliver low-quality, AI-generated content that is irrelevant to the client's specific product.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ecommerce/comments/1viqs3c/are_all_agencys_a_scam/",
+  "source_posted": "2026-08-08"
+ },
+ {
+  "market": "E-commerce Sellers",
+  "idea": "Ad management platform specializing in Reddit ads, with advanced targeting and ROAS optimization.",
+  "problem": "E-commerce sellers are unaware of or struggle to effectively utilize Reddit ads for product promotion and high ROAS.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Meta",
+   "Reddit"
+  ],
+  "source_url": "https://www.reddit.com/r/ecommerce/comments/1vfdop7/well_i_just_took_the_plunge_opened_my_llc_and/",
+  "source_posted": "2026-08-04"
+ },
+ {
+  "market": "E-commerce Sellers",
+  "idea": "Platform connecting e-commerce sellers with excess inventory to wholesalers or liquidators.",
+  "problem": "Failed e-commerce businesses or those with excess stock need efficient ways to liquidate or re-market unsold inventory.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "TJMaxx"
+  ],
+  "source_url": "https://www.reddit.com/r/ecommerce/comments/1vdi90m/my_company_failed_ideas_for_my_30k_of_stock/",
+  "source_posted": "2026-08-02"
+ },
+ {
+  "market": "E-commerce Sellers",
+  "idea": "Compliance platform simplifying EU PPWR/EPR registration and reporting for small e-commerce, like VAT OSS.",
+  "problem": "Small e-commerce businesses face significant administrative and cost burdens complying with EU PPWR/EPR regulations across multiple countries.",
+  "regulated": true,
+  "mentioned_in_thread": [
+   "epr.eldris.ai",
+   "VAT OSS"
+  ],
+  "source_url": "https://www.reddit.com/r/ecommerce/comments/1vketgs/important_info_about_ppwr_epr_regulations_in_the/",
+  "source_posted": "2026-08-10"
+ },
+ {
+  "market": "E-commerce Sellers",
+  "idea": "Cost calculator and impact analysis tool for EU PPWR/EPR regulations in e-commerce.",
+  "problem": "Micro and mid-sized e-commerce companies need to understand the financial impact of complex EU PPWR/EPR regulations on their business.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ecommerce/comments/1vketgs/important_info_about_ppwr_epr_regulations_in_the/",
+  "source_posted": "2026-08-10"
+ },
+ {
+  "market": "E-commerce Sellers",
+  "idea": "Automated website accessibility scanner and remediation tool for e-commerce, addressing screen reader/keyboard navigation.",
+  "problem": "Small e-commerce businesses are unaware of or unprepared for website accessibility requirements, risking lawsuits.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ecommerce/comments/1vx015z/has_anyone_here_actually_gotten_one_of_those/",
+  "source_posted": "2026-08-24"
+ },
+ {
+  "market": "E-commerce Sellers",
+  "idea": "AI customer service automation tool for e-commerce, handling common inquiries from email and Instagram DMs.",
+  "problem": "E-commerce owners need to efficiently manage customer support without diverting too much time from core business operations.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ecommerce/comments/1vv1afx/ecommerce_owner_with_lots_of_support_emails/",
+  "source_posted": "2026-08-22"
+ },
+ {
+  "market": "E-commerce Sellers",
+  "idea": "AI visibility monitoring tool auditing brand presence across ChatGPT and Gemini.",
+  "problem": "High cost of agency services for monitoring brand visibility across AI platforms.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Profound",
+   "Otterly",
+   "Pallas"
+  ],
+  "source_url": "https://www.reddit.com/r/ecommerce/comments/1vz1hk0/do_we_even_still_need_to_hire_an_agency_for_this/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "E-commerce Sellers",
+  "idea": "WhatsApp Business tool automatically logging sales and customer interactions for e-commerce reporting.",
+  "problem": "Manual logging of WhatsApp orders is inefficient and leads to fuzzy revenue and conversion rate data.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "WhatsApp Business tool"
+  ],
+  "source_url": "https://www.reddit.com/r/ecommerce/comments/1vqirbw/for_stores_where_real_orders_happen_over_whatsapp/",
+  "source_posted": "2026-08-17"
+ },
+ {
+  "market": "E-commerce Sellers",
+  "idea": "AI content analysis tool identifying product use cases and trade-offs from AI recommendations.",
+  "problem": "Need to understand why products appear or disappear in AI recommendations based on specific buying details.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Kairosy"
+  ],
+  "source_url": "https://www.reddit.com/r/ecommerce/comments/1vut9ia/whats_the_simplest_way_to_check_if_your_products/",
+  "source_posted": "2026-08-21"
+ },
+ {
+  "market": "E-commerce Sellers",
+  "idea": "Design analytics tool quantifying value from custom box printing placements.",
+  "problem": "I'm trying to decide where the printing actually adds the most value.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ecommerce/comments/1vxq0sk/custom_box_printing_inside_outside_or_both/",
+  "source_posted": "2026-08-25"
+ },
+ {
+  "market": "E-commerce Sellers",
+  "idea": "Packaging design configurator balancing exterior branding with interior personalization for discreet delivery.",
+  "problem": "I want to keep the exterior minimal and put personality inside, to avoid a billboard on the porch.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/ecommerce/comments/1vxq0sk/custom_box_printing_inside_outside_or_both/",
+  "source_posted": "2026-08-25"
+ },
+ {
+  "market": "Restaurant Owners",
+  "idea": "Cap table management platform handling proper vestment schedules for sweat equity.",
+  "problem": "Difficulty managing equity and vesting schedules for employees.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "carta"
+  ],
+  "source_url": "https://www.reddit.com/r/restaurantowners/comments/1vlvanz/chefowner_looking_for_perspective_sous_chef_wants/",
+  "source_posted": "2026-08-11"
+ },
+ {
+  "market": "Restaurant Owners",
+  "idea": "Compensation management tool structuring performance-based profit sharing and bonus packages for restaurant staff.",
+  "problem": "Need to offer attractive alternatives to equity like profit sharing or aggressive bonus packages.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/restaurantowners/comments/1vlvanz/chefowner_looking_for_perspective_sous_chef_wants/",
+  "source_posted": "2026-08-11"
+ },
+ {
+  "market": "Restaurant Owners",
+  "idea": "Risk management platform for documenting guidelines and waivers for non-employees on restaurant premises.",
+  "problem": "Liability concerns with employee's child on premises.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/restaurantowners/comments/1vyigbx/how_would_you_approach_this_situation_with_a_good/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Restaurant Owners",
+  "idea": "Resource management tool to designate and manage safe, supervised spaces for employee children during shifts.",
+  "problem": "Employee childcare needs impacting work, but no budget for daycare.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/restaurantowners/comments/1vyigbx/how_would_you_approach_this_situation_with_a_good/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Restaurant Owners",
+  "idea": "Benefits platform aggregating HCOL-specific support resources for restaurant employees.",
+  "problem": "Employees struggling with high cost of living, impacting their ability to work.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/restaurantowners/comments/1vyigbx/how_would_you_approach_this_situation_with_a_good/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Restaurant Owners",
+  "idea": "Real-time COGS tracker instantly analyzing margin impact from supplier price changes.",
+  "problem": "Difficulty tracking COGS changes and their immediate impact on margins.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/restaurantowners/comments/1vrqkf5/cogs_up_17_since_april_raise_prices/",
+  "source_posted": "2026-08-18"
+ },
+ {
+  "market": "Restaurant Owners",
+  "idea": "Dynamic pricing engine suggesting menu price adjustments based on COGS fluctuations and desired profit margins.",
+  "problem": "Hesitation and delay in adjusting prices in response to rising costs.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/restaurantowners/comments/1vrqkf5/cogs_up_17_since_april_raise_prices/",
+  "source_posted": "2026-08-18"
+ },
+ {
+  "market": "Restaurant Owners",
+  "idea": "Financial forecasting tool modeling sales fluctuations and cash flow for new restaurant openings, including contingency planning.",
+  "problem": "Unpredictable sales fluctuations and financial instability in the first year of operation.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/restaurantowners/comments/1vztix0/advice_for_first_time_restaurant_owners_opening/",
+  "source_posted": "2026-08-27"
+ },
+ {
+  "market": "Restaurant Owners",
+  "idea": "Location intelligence platform analyzing demographics and corporate presence for optimal restaurant site selection.",
+  "problem": "Difficulty in identifying and evaluating optimal restaurant locations.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/restaurantowners/comments/1vztix0/advice_for_first_time_restaurant_owners_opening/",
+  "source_posted": "2026-08-27"
+ },
+ {
+  "market": "Restaurant Owners",
+  "idea": "Multi-unit inventory management system automating ordering and tracking stock levels across all restaurant locations.",
+  "problem": "Inconsistent inventory and frequent stock-outs across multiple restaurant locations.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/restaurantowners/comments/1vmoffz/multiunit_owners_with_5_locations_how_do_you_guys/",
+  "source_posted": "2026-08-12"
+ },
+ {
+  "market": "Restaurant Owners",
+  "idea": "SOP creation and deployment platform standardizing operational procedures across multiple restaurant locations.",
+  "problem": "Lack of effective, standardized operational procedures for scaling a restaurant chain.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/restaurantowners/comments/1vmoffz/multiunit_owners_with_5_locations_how_do_you_guys/",
+  "source_posted": "2026-08-12"
+ },
+ {
+  "market": "Restaurant Owners",
+  "idea": "Flexible reservation system for small restaurants to manage cancellation deposits for large parties.",
+  "problem": "we’re sick of getting last minute large party cancellations and not being able to fill the tables.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/restaurantowners/comments/1vj1ujz/small_restaurant_large_party_cancellation_charge/",
+  "source_posted": "2026-08-08"
+ },
+ {
+  "market": "Restaurant Owners",
+  "idea": "Kitchen display system tracking and optimizing 'ticket to box' times for pizzeria takeout orders.",
+  "problem": "Currently debating with my business partner about what a target time is for whoever is the pizzaiolo to send a pizza out.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/restaurantowners/comments/1vz6zak/take_out_pizzeria_ticket_to_box/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Restaurant Owners",
+  "idea": "AI-driven analytics tool optimizing restaurant online presence for AI recommendation algorithms.",
+  "problem": "I asked ChatGPT, Gemini and Perplexity where to eat 551 times... to understand how they recommend restaurants.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/restaurantowners/comments/1vh67de/i_asked_chatgpt_gemini_and_perplexity_where_to/",
+  "source_posted": "2026-08-06"
+ },
+ {
+  "market": "Restaurant Owners",
+  "idea": "Commercial real estate platform listing 2nd gen restaurant spaces with specific equipment like vent hoods.",
+  "problem": "I'm looking for 2nd gen spaces with a vent hood and grease trap already installed and that's less than 2000sqft. I've tried online sites like LoopNet, but they never reply.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "LoopNet",
+   "Facebook Marketplace"
+  ],
+  "source_url": "https://www.reddit.com/r/restaurantowners/comments/1vurhsd/how_to_find_a_space_for_lease/",
+  "source_posted": "2026-08-21"
+ },
+ {
+  "market": "Content Creators",
+  "idea": "Video editing tool for Shorts creators to rework existing Shorts into 16:9 longform videos.",
+  "problem": "Shorts creators struggle to meet watch hour requirements and need to create longform content efficiently.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/NewTubers/comments/1vdg239/one_year_on_youtube_8_things_i_wish_i_knew_before/",
+  "source_posted": "2026-08-02"
+ },
+ {
+  "market": "Content Creators",
+  "idea": "Analytics platform helping creators find overlap between enjoyable content and audience interest.",
+  "problem": "Creators struggle to find a content niche that resonates with both their passion and audience demand.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/NewTubers/comments/1vdg239/one_year_on_youtube_8_things_i_wish_i_knew_before/",
+  "source_posted": "2026-08-02"
+ },
+ {
+  "market": "Content Creators",
+  "idea": "CRM for content creators to manage and remember key interactions with individual subscribers.",
+  "problem": "Creators struggle to maintain personal connections and remember individual details as their audience grows.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/NewTubers/comments/1vd3b7j/subscribers_are_not_your_friends/",
+  "source_posted": "2026-08-02"
+ },
+ {
+  "market": "Content Creators",
+  "idea": "Analytics tool providing data-driven insights into YouTube algorithm behavior for creators.",
+  "problem": "Creators perceive the YouTube algorithm as mysterious and receive contradictory advice.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/NewTubers/comments/1vk4u2p/feels_like_cult_indoctrination_trying_to_learn_yt/",
+  "source_posted": "2026-08-09"
+ },
+ {
+  "market": "Content Creators",
+  "idea": "AI tool helping creators optimize video titles and thumbnails for high initial CTR.",
+  "problem": "Videos need to perform exceptionally well (high CTR) within 48 hours to avoid flatlining.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/NewTubers/comments/1vtw3vd/theres_a_bigger_issue_than_yts_monetization/",
+  "source_posted": "2026-08-20"
+ },
+ {
+  "market": "Content Creators",
+  "idea": "Video editing assistant suggesting structural changes to maximize Average View Duration (AVD).",
+  "problem": "Creators need to stretch content to maximize AVD, which is crucial for algorithm success.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/NewTubers/comments/1vtw3vd/theres_a_bigger_issue_than_yts_monetization/",
+  "source_posted": "2026-08-20"
+ },
+ {
+  "market": "Content Creators",
+  "idea": "Content idea generator suggesting video topics with higher engagement potential in saturated niches.",
+  "problem": "Single-book reviews get low views, creator feels niche is saturated.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/NewTubers/comments/1vuf25n/i_think_i_need_to_accept_that_my_channel_will/",
+  "source_posted": "2026-08-21"
+ },
+ {
+  "market": "Content Creators",
+  "idea": "Algorithm change detection and impact analysis tool alerting creators to platform shifts.",
+  "problem": "Sudden, drastic drop in views due to algorithm changes.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/NewTubers/comments/1vepzhr/as_someone_with_1_million_subscribers_from_short/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Content Creators",
+  "idea": "Cross-platform content performance tracker comparing engagement metrics across YouTube, Instagram, TikTok.",
+  "problem": "Creator sees vastly different performance on YouTube vs. Instagram/TikTok.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/NewTubers/comments/1vepzhr/as_someone_with_1_million_subscribers_from_short/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Content Creators",
+  "idea": "Copyright claim management tool helping creators dispute false claims and track music licensing status.",
+  "problem": "Creator receiving false copyright claims on properly attributed music.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "YouTube's dispute system"
+  ],
+  "source_url": "https://www.reddit.com/r/NewTubers/comments/1vq9ug0/my_old_videos_using_kevin_macleod_music_are/",
+  "source_posted": "2026-08-16"
+ },
+ {
+  "market": "Content Creators",
+  "idea": "Thumbnail testing tool automatically applying blur and grayscale filters to assess readability at a glance.",
+  "problem": "Manually testing thumbnail readability is time-consuming.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/NewTubers/comments/1vnxwk8/my_take_after_3_years_of_youtube_146k_25m_views/",
+  "source_posted": "2026-08-14"
+ },
+ {
+  "market": "Content Creators",
+  "idea": "Stock footage management tool integrating search, preview, and import from free stock sites into NLEs.",
+  "problem": "Sourcing stock footage from multiple sites is inefficient and time-consuming.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Pexels",
+   "Pixabay",
+   "Unsplash",
+   "YouTube",
+   "Premiere",
+   "Resolve"
+  ],
+  "source_url": "https://www.reddit.com/r/NewTubers/comments/1vmuwj0/how_do_experienced_editors_gather_stock_footage/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "Manager coaching platform guiding structured conversations for problem employees.",
+  "problem": "Managers don't know how to address employee issues directly and rely on HR for basic coaching.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1w0t4kj/every_time_a_manager_walks_into_my_office_to/",
+  "source_posted": "2026-08-28"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "HR intake system helping managers articulate needs before HR meetings.",
+  "problem": "Managers come to HR without a clear objective, often just to vent, wasting HR's time.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1w0t4kj/every_time_a_manager_walks_into_my_office_to/",
+  "source_posted": "2026-08-28"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "Incident reporting system ensuring timely, mandatory escalation of critical employee welfare issues.",
+  "problem": "Critical employee welfare incidents, like suicide risk, are reported to HR with significant delays.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1vxm1hi/lost_an_associate_to_suicide_na/",
+  "source_posted": "2026-08-25"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "Employee support portal outlining and facilitating access to EAP, LOA, and PTO benefits.",
+  "problem": "Employees may not be fully aware of or easily able to access available mental health and leave resources.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1vxm1hi/lost_an_associate_to_suicide_na/",
+  "source_posted": "2026-08-25"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "HR document management system enforcing naming conventions and preventing employee record duplication.",
+  "problem": "HR documents are disorganized, mislabeled, duplicated, and stored in random locations.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1vnb2q8/finally_cleaned_up_my_predecessors_mess_na/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "Workflow automation platform simplifying HR processes by reducing redundant steps and signature requirements.",
+  "problem": "HR processes are over-engineered with excessive checklists and unnecessary multiple signatures.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1vnb2q8/finally_cleaned_up_my_predecessors_mess_na/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "HR data classification tool automatically segregating sensitive employee information like medical records and I-9s.",
+  "problem": "Sensitive employee data is mixed with general documents, making it hard to find and secure.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1vnb2q8/finally_cleaned_up_my_predecessors_mess_na/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "Knowledge management system organizing HR processes and institutional knowledge for continuity.",
+  "problem": "Lack of documented HR processes and institutional knowledge leads to chaos when staff leave.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1vnb2q8/finally_cleaned_up_my_predecessors_mess_na/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "Resume analysis tool translating specialized corporate jargon into universally understood business terms for candidates.",
+  "problem": "Candidates from unique corporate cultures use jargon that makes their experience incomprehensible to external interviewers.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1vo5n3a/i_had_a_long_time_amazon_employee_interview_with/",
+  "source_posted": "2026-08-14"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "Interviewer assistant providing prompts to deconstruct specialized candidate experiences and jargon.",
+  "problem": "Interviewers struggle to understand and evaluate candidates whose experience is heavily tied to a specific organizational culture.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1vo5n3a/i_had_a_long_time_amazon_employee_interview_with/",
+  "source_posted": "2026-08-14"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "AI customer support training platform rigorously testing AI agents before customer deployment.",
+  "problem": "AI customer support is being deployed prematurely, leading to poor customer experience and overwhelmed human teams.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "UKG"
+  ],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1vft2zs/ukg_customers_an_insider_warning_about_upcoming/",
+  "source_posted": "2026-08-05"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "Vendor transparency dashboard monitoring and reporting changes in customer support models and service levels.",
+  "problem": "Vendors are not transparent about significant changes to their customer support models, impacting users.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "UKG"
+  ],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1vft2zs/ukg_customers_an_insider_warning_about_upcoming/",
+  "source_posted": "2026-08-05"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "Compliance workflow tool guiding HR through legal steps for background check red flags, like Fair Chance Act.",
+  "problem": "Uncertainty about how to handle pending felony charges post-offer, especially with specific state laws.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1w1zod7/a_candidate_was_offered_a_job_but_her_background/",
+  "source_posted": "2026-08-29"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "Dynamic legal guidance database providing up-to-date HR compliance information for specific states and scenarios.",
+  "problem": "Need to understand complex state-specific hiring laws for unusual background check results.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1w1zod7/a_candidate_was_offered_a_job_but_her_background/",
+  "source_posted": "2026-08-29"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "Candidate motivation assessment tool helping recruiters evaluate underlying reasons for job changes, like commute.",
+  "problem": "Disagreement within the recruiting team on how to interpret a candidate's reason for leaving (commute).",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1vdj3qr/is_a_commute_a_reasonable_reason_to_leave_a_job/",
+  "source_posted": "2026-08-02"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "Recruiter calibration platform standardizing candidate evaluation criteria and aligning teams on hiring decisions.",
+  "problem": "Recruiters have differing opinions on candidate red flags, leading to internal disagreement.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1vdj3qr/is_a_commute_a_reasonable_reason_to_leave_a_job/",
+  "source_posted": "2026-08-02"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "Risk assessment and protocol tool guiding HR on involving law enforcement for dangerous employee terminations.",
+  "problem": "can you reach out to local law enforcement based on just a gut feeling that an employee is dangerous.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1w0q8z1/urgent_serious_question_ct/",
+  "source_posted": "2026-08-28"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "Offboarding management system automating safe return of personal effects for remote terminations.",
+  "problem": "I'm thinking of reaching back out and telling him we are just going to ship his personal effects back to him",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1w0q8z1/urgent_serious_question_ct/",
+  "source_posted": "2026-08-28"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "Compensation benchmarking platform providing salary data for HR roles by region and experience.",
+  "problem": "Interested in seeing what others in similar positions are making! Also, if you were to ask for a raise, what is the percentage range you would find appropriate?",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1vt0yi0/hr_generalists_how_much_do_you_make_per_year_and/",
+  "source_posted": "2026-08-19"
+ },
+ {
+  "market": "HR Managers",
+  "idea": "Compliance knowledge base providing HR with state-specific worker protection information like Ban the Box.",
+  "problem": "When I explained this process as well as the various worker protections in our state (Ban the Box, etc.)",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/humanresources/comments/1vetr62/employee_quit_because_of_hr_mn/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "Mobile app for date-stamped, geo-tagged photos for unit condition documentation.",
+  "problem": "Deposit disputes due to lack of photographic evidence.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1vs5thd/what_i_started_doing_between_tenants_after_year/",
+  "source_posted": "2026-08-18"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "Digital checklist tool for standardizing tenant turnover and safety item checks.",
+  "problem": "Inconsistent turnover processes and missed safety checks.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "ServPro"
+  ],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1vs5thd/what_i_started_doing_between_tenants_after_year/",
+  "source_posted": "2026-08-18"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "Maintenance log tracking dates, costs, repairs, and warranty information for all unit assets.",
+  "problem": "Disorganized tracking of maintenance history and warranty details.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "spreadsheet"
+  ],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1vs5thd/what_i_started_doing_between_tenants_after_year/",
+  "source_posted": "2026-08-18"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "Workflow tool for obtaining owner pre-authorization for maintenance tasks.",
+  "problem": "Unauthorized maintenance charges to property owners.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1vrpk3z/management_company_eating_up_every_penny_of_profit/",
+  "source_posted": "2026-08-18"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "PMS flagging potential conflicts of interest between agents and properties.",
+  "problem": "Property managers poaching tenants for other properties.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1vedwqw/property_manager_i_hired_poached_my_tenants/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "Financial tool calculating vacancy costs and lost rent due to property manager actions.",
+  "problem": "Quantifying financial damage from unethical property manager behavior.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1vedwqw/property_manager_i_hired_poached_my_tenants/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "Compliance reporting system for documenting and submitting ethical violations to state real estate boards.",
+  "problem": "Difficulty reporting property manager ethical violations to regulatory bodies.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1vedwqw/property_manager_i_hired_poached_my_tenants/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "Legal document generator for preparing small claims court filings for breach of contract.",
+  "problem": "Pursuing legal action against property management companies without a lawyer.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1vedwqw/property_manager_i_hired_poached_my_tenants/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "Compliance monitoring tool identifying potential code violations and facilitating reporting to authorities.",
+  "problem": "Unresolved building issues risk regulatory intervention from fire marshal or health department.",
+  "regulated": true,
+  "mentioned_in_thread": [
+   "311"
+  ],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1w00gy4/ashamed_to_be_a_property_manager_at_my_property/",
+  "source_posted": "2026-08-27"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "Reasonable modification request management system tracking requests, approvals, and associated costs.",
+  "problem": "Handling and documenting reasonable modification requests for disabled residents.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1w00gy4/ashamed_to_be_a_property_manager_at_my_property/",
+  "source_posted": "2026-08-27"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "Tenant screening tool detecting fraudulent credit profiles (CPN) during the application process.",
+  "problem": "Tenants using fraudulent CPNs to bypass credit checks and get approved.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1vqgz6y/found_out_my_roomate_used_a_cpn_to_get_approved/",
+  "source_posted": "2026-08-17"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "Legal workflow system guiding property managers through lease termination for fraudulent tenants.",
+  "problem": "Difficulty removing fraudulent tenants from a lease.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1vqgz6y/found_out_my_roomate_used_a_cpn_to_get_approved/",
+  "source_posted": "2026-08-17"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "Package management system automating resident notifications and pickup logistics.",
+  "problem": "Property managers hate dealing with packages.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1vxstb4/4_years_in_property_management_as_a_lc_and_i/",
+  "source_posted": "2026-08-25"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "Conversation intelligence platform analyzing recorded leasing calls and tours for coaching.",
+  "problem": "Managers struggle to understand why some leasing agents convert better than others.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1vi2gz6/what_does_leasing_team_coaching_look_like_when/",
+  "source_posted": "2026-08-07"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "Performance analytics dashboard correlating leasing agent behaviors with conversion rates.",
+  "problem": "Managers need to know what high-performing agents are doing differently.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1vi2gz6/what_does_leasing_team_coaching_look_like_when/",
+  "source_posted": "2026-08-07"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "Route optimization tool planning efficient property visits across dispersed locations.",
+  "problem": "Managing property visits across multiple, non-linear, geographically spread locations is time-consuming.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1vomlpy/commercial_property_managers_what_does_your/",
+  "source_posted": "2026-08-14"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "Tenant communication platform automating payment reminders and lease agreement enforcement.",
+  "problem": "Many tenants are not paying rent on time and not respecting payment agreements.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1vcijkt/new_to_the_property_management_world_and/",
+  "source_posted": "2026-08-01"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "Lease compliance tracking system flagging deviations and suggesting non-eviction remedies.",
+  "problem": "Tenants are difficult to deal with and lie, making it hard to enforce lease agreements without eviction.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1vcijkt/new_to_the_property_management_world_and/",
+  "source_posted": "2026-08-01"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "Damage assessment tool itemizing repair costs and tracking tenant liabilities post-lease break.",
+  "problem": "Tenant caused significant damages (paint, carpet, water bill) and PM needs to track costs.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1viyok2/should_i_sue/",
+  "source_posted": "2026-08-08"
+ },
+ {
+  "market": "Property Managers",
+  "idea": "Dispute resolution platform calculating tenant balances and preparing documentation for legal pursuit.",
+  "problem": "Tenant broke lease, caused damages, and is harassing PM over deposit, requiring legal action.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/PropertyManagement/comments/1viyok2/should_i_sue/",
+  "source_posted": "2026-08-08"
+ },
+ {
+  "market": "Insurance Brokers",
+  "idea": "Claim analysis platform identifying suspicious denial patterns across insurers.",
+  "problem": "Insurance companies are defrauding homeowners by denying legitimate claims using internal incentives.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/InsuranceAgent/comments/1vzsjl8/the_state_farm_doc_dump_is_crazy_stuff/",
+  "source_posted": "2026-08-27"
+ },
+ {
+  "market": "Insurance Brokers",
+  "idea": "Legal discovery tool for attorneys to uncover internal communications on claim denial strategies.",
+  "problem": "Insurance companies fight to keep documents private that expose fraudulent claim denial practices.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/InsuranceAgent/comments/1vzsjl8/the_state_farm_doc_dump_is_crazy_stuff/",
+  "source_posted": "2026-08-27"
+ },
+ {
+  "market": "Insurance Brokers",
+  "idea": "Public data analysis tool supporting policyholder advocacy to challenge unfair claim denials.",
+  "problem": "Homeowners are being defrauded of legitimate payments due to high claim denial rates.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/InsuranceAgent/comments/1vzsjl8/the_state_farm_doc_dump_is_crazy_stuff/",
+  "source_posted": "2026-08-27"
+ },
+ {
+  "market": "Insurance Brokers",
+  "idea": "Commercial risk assessment platform guiding clients to provide comprehensive data for complex quotes.",
+  "problem": "Clients have unrealistic expectations about the complexity of quoting unusual commercial businesses.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/InsuranceAgent/comments/1vy9dir/the_amount_of_people_who_think_that_quotes/",
+  "source_posted": "2026-08-25"
+ },
+ {
+  "market": "Insurance Brokers",
+  "idea": "AI intake form adapting questions based on unique commercial business activities.",
+  "problem": "Gathering complete information for highly specialized or multi-faceted commercial insurance risks is difficult.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/InsuranceAgent/comments/1vy9dir/the_amount_of_people_who_think_that_quotes/",
+  "source_posted": "2026-08-25"
+ },
+ {
+  "market": "Insurance Brokers",
+  "idea": "Client communication scheduler delaying incoming calls/messages until agent's preferred readiness time.",
+  "problem": "Agents dislike receiving calls immediately at opening, needing time to mentally prepare and clear initial tasks.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/InsuranceAgent/comments/1vec8zl/when_they_call_right_at_830/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Insurance Brokers",
+  "idea": "Automated email triage tool sorting and prioritizing morning emails before agent review.",
+  "problem": "Agents spend early morning time deleting junk and non-important emails.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/InsuranceAgent/comments/1vec8zl/when_they_call_right_at_830/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Insurance Brokers",
+  "idea": "Adaptive exam simulator mimicking confusing question style of state insurance licensing exams.",
+  "problem": "Actual state insurance exams are confusing and don't align with standard study materials.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/InsuranceAgent/comments/1vohqxl/passed_life_accident_and_health_exam_tx/",
+  "source_posted": "2026-08-14"
+ },
+ {
+  "market": "Insurance Brokers",
+  "idea": "Compliance monitoring system alerting agents to misleading sales scripts or practices.",
+  "problem": "Carriers are issuing compliance reminders, indicating potential contract cuts due to unethical practices.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/InsuranceAgent/comments/1vtziac/my_experience_with_these_instagram_life_insurance/",
+  "source_posted": "2026-08-20"
+ },
+ {
+  "market": "Insurance Brokers",
+  "idea": "Agency vetting platform helping new agents identify ethical IMOs or aggregators.",
+  "problem": "Many IMOs and brokerages follow an exploitative MLM blueprint, making it hard for new agents to find ethical partners.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Pinnacle",
+   "Primerica",
+   "WFG",
+   "FFL"
+  ],
+  "source_url": "https://www.reddit.com/r/InsuranceAgent/comments/1vtziac/my_experience_with_these_instagram_life_insurance/",
+  "source_posted": "2026-08-20"
+ },
+ {
+  "market": "Insurance Brokers",
+  "idea": "Contract analysis tool highlighting book ownership/exit provisions in agency network agreements for professional review.",
+  "problem": "Agency owners get trapped by unfavorable contract terms in agency network agreements.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/InsuranceAgent/comments/1vwadgv/independent_agency_owners_what_would_you_do/",
+  "source_posted": "2026-08-23"
+ },
+ {
+  "market": "Insurance Brokers",
+  "idea": "Carrier appointment strategy tool recommending priority appointments based on niche, location, agency profile.",
+  "problem": "New agencies don't know which carrier appointments to prioritize first.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/InsuranceAgent/comments/1vwadgv/independent_agency_owners_what_would_you_do/",
+  "source_posted": "2026-08-23"
+ },
+ {
+  "market": "Insurance Brokers",
+  "idea": "Lead generation tool identifying/qualifying P&C prospects prioritizing coverage/value over lowest price.",
+  "problem": "Current lead sources are unreliable and volatile, leading to price-sensitive clients.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/InsuranceAgent/comments/1vrrpmh/current_state_of_insurance/",
+  "source_posted": "2026-08-18"
+ },
+ {
+  "market": "Insurance Brokers",
+  "idea": "Policy cancellation management system automating prior policy cancellation requests and tracking status.",
+  "problem": "Agents spend too much time manually canceling prior policies.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/InsuranceAgent/comments/1vomfqj/how_are_you_guys_dealing_with_canceling_prior/",
+  "source_posted": "2026-08-14"
+ },
+ {
+  "market": "Insurance Brokers",
+  "idea": "E&O risk assessment tool flagging issues for complex/low-margin policies like CA Fair Plan.",
+  "problem": "Low-quality agents handling complex policies due to commission changes could lead to E&O nightmares.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/InsuranceAgent/comments/1vr9ube/ca_fair_plan_commission_changes/",
+  "source_posted": "2026-08-18"
+ },
+ {
+  "market": "Insurance Brokers",
+  "idea": "Carrier search/comparison platform helping agents find comprehensive coverage alternatives to CA Fair Plan.",
+  "problem": "Agents need to diligently search for comprehensive coverage in the traditional marketplace.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/InsuranceAgent/comments/1vr9ube/ca_fair_plan_commission_changes/",
+  "source_posted": "2026-08-18"
+ },
+ {
+  "market": "Insurance Brokers",
+  "idea": "Sales coaching platform analyzing call recordings to suggest dynamic script adjustments for aged leads.",
+  "problem": "The agent follows a script but it's not leading to sales, especially with aged leads.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/InsuranceAgent/comments/1vftpsq/not_many_sales/",
+  "source_posted": "2026-08-05"
+ },
+ {
+  "market": "Dentists",
+  "idea": "AI-powered workflow support highlighting unexpected findings in CBCT scans for dentist review.",
+  "problem": "Unexpected findings on scans, potentially missed during initial assessment.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Dentistry/comments/1vif0bn/_/",
+  "source_posted": "2026-08-07"
+ },
+ {
+  "market": "Dentists",
+  "idea": "Patient communication platform automating routine interactions to reduce dentist social fatigue.",
+  "problem": "Social fatigue and burnout from constant patient interaction, leading to a desire for isolation.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Dentistry/comments/1vmmykm/does_dentistry_make_anyone_else_want_to_be_alone/",
+  "source_posted": "2026-08-12"
+ },
+ {
+  "market": "Dentists",
+  "idea": "Practice management tool optimizing scheduling to minimize back-to-back patient interactions.",
+  "problem": "Social fatigue and burnout from constant patient interaction, leading to a desire for isolation.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Dentistry/comments/1vmmykm/does_dentistry_make_anyone_else_want_to_be_alone/",
+  "source_posted": "2026-08-12"
+ },
+ {
+  "market": "Dentists",
+  "idea": "Patient education platform visually explaining complex procedures and risks of inadequate prior treatment.",
+  "problem": "Patients requesting quick fixes for complex issues due to prior inadequate treatment, leading to unrealistic expectations.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Dentistry/comments/1vh1bv0/quackery_in_pakistan/",
+  "source_posted": "2026-08-06"
+ },
+ {
+  "market": "Dentists",
+  "idea": "Treatment planning software for documenting and communicating comprehensive treatment necessity.",
+  "problem": "Patients requesting quick fixes for complex issues due to prior inadequate treatment, leading to unrealistic expectations.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Dentistry/comments/1vh1bv0/quackery_in_pakistan/",
+  "source_posted": "2026-08-06"
+ },
+ {
+  "market": "Dentists",
+  "idea": "Mobile gaming platform offering pause-friendly, short-session games for dentists between patients.",
+  "problem": "Dentists need short, engaging activities for breaks between patients.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Slay The Spire"
+  ],
+  "source_url": "https://www.reddit.com/r/Dentistry/comments/1veb7zn/where_are_my_fellow_dentist_gamers/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Dentists",
+  "idea": "Dental simulation game honing hand-eye coordination and focus for practicing dentists.",
+  "problem": "Desire to maintain or improve hand-eye coordination and focus, similar to gaming skills, relevant to dentistry.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Dentistry/comments/1veb7zn/where_are_my_fellow_dentist_gamers/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "Dentists",
+  "idea": "Patient communication app providing real-time comfort tips and distraction content during dental procedures.",
+  "problem": "Patients' exaggerated reactions and discomfort (e.g., choking on saliva) during routine procedures.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Dentistry/comments/1vh9chs/patients_who_act_like_were_waterboarding_them/",
+  "source_posted": "2026-08-06"
+ },
+ {
+  "market": "Dentists",
+  "idea": "Claims appeal management system automating disputes of AI-driven insurance claim rejections.",
+  "problem": "legit Delta Dental, MetLife, Humana, Ameritas, Principal, and United Concordia claims are getting rejected and denied",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Overjet AI"
+  ],
+  "source_url": "https://www.reddit.com/r/Dentistry/comments/1vz5lam/overjet_ai_is_the_worst_thing_to_happen_to/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Dentists",
+  "idea": "Eligibility verification system accurately calculating patient amounts to prevent financial complications.",
+  "problem": "eligibility break downs that collect the wrong patient amounts",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Overjet AI"
+  ],
+  "source_url": "https://www.reddit.com/r/Dentistry/comments/1vz5lam/overjet_ai_is_the_worst_thing_to_happen_to/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Dentists",
+  "idea": "Cost comparison tool factoring travel, follow-up, material quality for dental tourism versus local treatment.",
+  "problem": "It's nice to ignore the cost of plane tickets, missing work, etc.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Dentistry/comments/1vgid8c/my_pharmacist_friend_chose_dental_tourism_then/",
+  "source_posted": "2026-08-05"
+ },
+ {
+  "market": "Dentists",
+  "idea": "Secure system for patients to share and dentists to review international dental records and treatment details.",
+  "problem": "The dental records issue is … an issue.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Dentistry/comments/1vgid8c/my_pharmacist_friend_chose_dental_tourism_then/",
+  "source_posted": "2026-08-05"
+ },
+ {
+  "market": "Dentists",
+  "idea": "Secure case collaboration platform for dentists to share complex radiographic images and receive peer advice.",
+  "problem": "What could this possibly be and if necessary what would be the treatment for it?",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Dentistry/comments/1vg8clt/what_is_this_periapical_lesion_on_a_16_year_old/",
+  "source_posted": "2026-08-05"
+ },
+ {
+  "market": "Dentists",
+  "idea": "Patient intake system prompting for comprehensive medical history, including all medications and conditions.",
+  "problem": "Patients often provide incomplete or inaccurate medical histories, omitting crucial details.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Dentistry/comments/1w1n64f/go_over_medical_history_with_your_doctor/",
+  "source_posted": "2026-08-29"
+ },
+ {
+  "market": "Dentists",
+  "idea": "Dental software module cross-referencing patient medications with planned treatments for potential contraindication alerts.",
+  "problem": "Dentists need to know medication interactions with dental treatments and prescribed medications.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Dentistry/comments/1w1n64f/go_over_medical_history_with_your_doctor/",
+  "source_posted": "2026-08-29"
+ },
+ {
+  "market": "Dentists",
+  "idea": "Clinical decision support tool providing guidelines for identifying and reporting pediatric dental neglect.",
+  "problem": "Dentists are unsure at what point to consider and take action regarding child dental neglect.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Dentistry/comments/1vzp042/when_do_you_consider_neglect/",
+  "source_posted": "2026-08-27"
+ },
+ {
+  "market": "Dentists",
+  "idea": "Standardized communication platform for dentists to request specific medical information from PCPs.",
+  "problem": "Current medical clearance requests are often vague and burdensome for PCPs, lacking specific questions.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Dentistry/comments/1vlx8st/dentists_who_require_medical_clearance/",
+  "source_posted": "2026-08-11"
+ },
+ {
+  "market": "Dentists",
+  "idea": "Social media monitoring service identifying and flagging illegal dental practices advertised on Instagram and TikTok.",
+  "problem": "Illegal dental practices are being advertised on social media, posing a risk to public safety.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Dentistry/comments/1vkze2m/illegal_veneer_techs_on_instagram/",
+  "source_posted": "2026-08-10"
+ },
+ {
+  "market": "Veterinarians",
+  "idea": "Secure, anonymous peer support platform for veterinarian case review and emotional support.",
+  "problem": "Vets are being torn down by colleagues for complications, leading to emotional distress and professional isolation.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Veterinary/comments/1vtpmbi/im_tired/",
+  "source_posted": "2026-08-20"
+ },
+ {
+  "market": "Veterinarians",
+  "idea": "Client education tool for veterinarians to communicate surgical risks and complications to owners.",
+  "problem": "Difficulty in discussing potential complications and alternative procedures with owners, especially when funds are limited.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Veterinary/comments/1vtpmbi/im_tired/",
+  "source_posted": "2026-08-20"
+ },
+ {
+  "market": "Veterinarians",
+  "idea": "Career matching platform connecting individuals with partial veterinary education to non-DVM roles.",
+  "problem": "A dismissed vet student with significant debt needs immediate job options that don't require more schooling.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Veterinary/comments/1vob880/dismissed/",
+  "source_posted": "2026-08-14"
+ },
+ {
+  "market": "Veterinarians",
+  "idea": "VETSCAN imagyst feature for free slide viewing before AI interpretation charges.",
+  "problem": "Uncertainty about when charges occur for AI interpretation on the VETSCAN imagyst device.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Zoetis VETSCAN imagyst"
+  ],
+  "source_url": "https://www.reddit.com/r/Veterinary/comments/1vt43v6/zoetis_vetscan_imagyst/",
+  "source_posted": "2026-08-20"
+ },
+ {
+  "market": "Veterinarians",
+  "idea": "Scheduling optimization tool balancing appointment types and staff availability to prevent burnout.",
+  "problem": "Burnout due to high volume, speed requirements, and constant juggling of different appointment types.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Veterinary/comments/1vi6fel/banfield_is_it_as_bad_as_they_say_or_is_it_just_me/",
+  "source_posted": "2026-08-07"
+ },
+ {
+  "market": "Veterinarians",
+  "idea": "Workflow management system streamlining intake processes for healthy and sick pets.",
+  "problem": "Difficulty managing 'drop off appointments' and speed required for intakes.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Veterinary/comments/1vi6fel/banfield_is_it_as_bad_as_they_say_or_is_it_just_me/",
+  "source_posted": "2026-08-07"
+ },
+ {
+  "market": "Veterinarians",
+  "idea": "Contract monitoring platform tracking internship hours and time off against agreements.",
+  "problem": "Internships not adhering to stated terms regarding hours and days off.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Veterinary/comments/1vdreb8/will_leaving_an_internship_ruin_my_career/",
+  "source_posted": "2026-08-02"
+ },
+ {
+  "market": "Veterinarians",
+  "idea": "Transparent internship review platform verifying anonymous feedback on working conditions and hours.",
+  "problem": "Internship programs often misrepresent working hours and conditions.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Veterinary/comments/1vdreb8/will_leaving_an_internship_ruin_my_career/",
+  "source_posted": "2026-08-02"
+ },
+ {
+  "market": "Veterinarians",
+  "idea": "Mobile app with real-time tips and visual guides for safe handling of challenging animals.",
+  "problem": "Difficulty handling large dogs and preventing escapes.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Veterinary/comments/1vcegpc/im_terrible_at_working_with_animals/",
+  "source_posted": "2026-08-01"
+ },
+ {
+  "market": "Veterinarians",
+  "idea": "Career guidance platform outlining non-DVM pathways into veterinary practice management.",
+  "problem": "Unclear career paths for non-DVMs in vet practice management.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Veterinary/comments/1vjshdk/quitting_vet_school/",
+  "source_posted": "2026-08-09"
+ },
+ {
+  "market": "Veterinarians",
+  "idea": "Training management platform for new veterinary assistants tracking onboarding progress and communication.",
+  "problem": "New VAs experience chaotic, unstructured training with poor communication.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Veterinary/comments/1vn9etb/nightmare_banfield_va_experience/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "Veterinarians",
+  "idea": "Virtual simulation platform for clinical skill refreshers and case-based learning for returning veterinarians.",
+  "problem": "Experienced veterinarians returning to clinical work feel like beginners and lack confidence in practical skills.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Veterinary/comments/1vlq165/i_feel_incredibly_lost_and_dont_know_where_to_go/",
+  "source_posted": "2026-08-11"
+ },
+ {
+  "market": "Veterinarians",
+  "idea": "Inventory and supply chain management system optimizing ordering within corporate budget constraints.",
+  "problem": "Corporate clinics have strict limits on supply ordering, impacting operations.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Veterinary/comments/1veyudh/im_burnt_out_and_ready_to_leave_the_field/",
+  "source_posted": "2026-08-04"
+ },
+ {
+  "market": "Veterinarians",
+  "idea": "Verified exam preparation platform for NAVLE and VTNE ensuring high-quality study materials.",
+  "problem": "Students are exposed to scam websites offering exam preparation for NAVLE and VTNE.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Veterinary/comments/1vn9mk4/repost_as_this_users_two_prep_subs_still_get_200/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "Veterinarians",
+  "idea": "Decision support tool assisting veterinarians with X-ray sedation protocol determination.",
+  "problem": "Veterinarians want to avoid unsedated X-rays due to safety concerns, implying a need for efficient sedation.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Veterinary/comments/1vl0pv9/does_anyone_wear_lead_gloves_when_taking_xrays/",
+  "source_posted": "2026-08-10"
+ },
+ {
+  "market": "Veterinarians",
+  "idea": "Virtual reality training simulator with haptic feedback for veterinary vaccine injections.",
+  "problem": "New grads are struggling with vaccine injection technique, leading to spillage.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/Veterinary/comments/1vencne/administering_vaccines_gone_wrong/",
+  "source_posted": "2026-08-03"
+ },
+ {
+  "market": "HVAC Contractors",
+  "idea": "A deal aggregation platform notifying HVAC contractors about sales on common tools and supplies.",
+  "problem": "HVAC contractors want to find good deals on essential tools and consumables.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/HVAC/comments/1w0ysdf/sale_on_the_magnet_umbrellas_for_30_bought_8_of/",
+  "source_posted": "2026-08-28"
+ },
+ {
+  "market": "HVAC Contractors",
+  "idea": "A customer education module within a field service app for visual HVAC emergency and safety explanations.",
+  "problem": "Customers have unrealistic expectations or misunderstand the urgency/danger of HVAC issues during an emergency.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/HVAC/comments/1vnr8tm/im_sure_the_fire_fighters_will_understand/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "HVAC Contractors",
+  "idea": "A diagnostic tool providing verifiable proof of HVAC component failure or out-of-spec condition to customers.",
+  "problem": "Customers being charged for unnecessary parts or repairs, leading to distrust.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/HVAC/comments/1vzywuo/imthe_guy_who_charges_1500_for_a_cap_still_in_spec/",
+  "source_posted": "2026-08-27"
+ },
+ {
+  "market": "HVAC Contractors",
+  "idea": "A documentation platform helping technicians record and decline responsibility for pre-existing or third-party work.",
+  "problem": "Technicians are asked to finish or fix work started by others, which puts them at liability risk.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/HVAC/comments/1vt19te/well_tough_luck_dude/",
+  "source_posted": "2026-08-19"
+ },
+ {
+  "market": "HVAC Contractors",
+  "idea": "A sizing calculator recommending HVAC unit capacity based on environmental and structural factors.",
+  "problem": "Oversizing AC units leads to poor dehumidification and discomfort for customers.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/HVAC/comments/1vt19te/well_tough_luck_dude/",
+  "source_posted": "2026-08-19"
+ },
+ {
+  "market": "HVAC Contractors",
+  "idea": "A diagnostic app using image recognition to identify HVAC components and potential issues.",
+  "problem": "Misidentification of HVAC components or issues, leading to wasted time or incorrect repairs.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/HVAC/comments/1vn7yki/nice_way_to_start_the_day/",
+  "source_posted": "2026-08-13"
+ },
+ {
+  "market": "Gym Owners",
+  "idea": "A video analysis platform enabling personal trainers to provide accurate form critique to clients.",
+  "problem": "Inaccurate and unhelpful form critique is prevalent online, making it hard for clients to get good advice.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/personaltraining/comments/1vya25g/the_other_fitness_subreddits_are_the_blind/",
+  "source_posted": "2026-08-25"
+ },
+ {
+  "market": "Gym Owners",
+  "idea": "A client management system integrating AI tools transparently, maintaining trainer oversight and personalization.",
+  "problem": "Clients are discovering online coaches use AI platforms, leading to distrust.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/personaltraining/comments/1vrr4of/before_you_start_online_coaching/",
+  "source_posted": "2026-08-18"
+ },
+ {
+  "market": "Gym Owners",
+  "idea": "A referral management system that tracks and incentivizes client referrals for gym owners.",
+  "problem": "Gyms struggle to get internal referrals from existing clients.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/personaltraining/comments/1vr5bv3/never_underestimate_the_referrals_a_client_can/",
+  "source_posted": "2026-08-17"
+ },
+ {
+  "market": "Gym Owners",
+  "idea": "A data analytics platform helping trainers apply workout metrics and data to programming.",
+  "problem": "Tech-savvy trainers want to record everything for metrics and data, but struggle to apply insights.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/personaltraining/comments/1vyj67l/passed_the_nasmcpt_today/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Gym Owners",
+  "idea": "A coaching tool providing structured frameworks and resources for behavior change coaching.",
+  "problem": "Trainers need to help clients stick with programs, which requires behavior change skills beyond exercise science.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Motivational Interviewing by Miller and Rollnick"
+  ],
+  "source_url": "https://www.reddit.com/r/personaltraining/comments/1vyj67l/passed_the_nasmcpt_today/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Gym Owners",
+  "idea": "A certification evaluation tool assessing selling power and maintenance costs of fitness certifications like CFL1.",
+  "problem": "Trainers need to understand the value and applicability of various certifications (e.g., CFL1) outside specific niches.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "CFL1"
+  ],
+  "source_url": "https://www.reddit.com/r/personaltraining/comments/1vyj67l/passed_the_nasmcpt_today/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Gym Owners",
+  "idea": "A programming assistant suggesting protocols for clients with stubborn fat areas, for trainer review.",
+  "problem": "Trainers struggle to adapt programs for clients with specific, stubborn fat areas despite adherence to general principles.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/personaltraining/comments/1viytqt/female_clients_with_stubborn_lower_stomach_fat/",
+  "source_posted": "2026-08-08"
+ },
+ {
+  "market": "Gym Owners",
+  "idea": "A nutrition and training adjustment tool recommending deficit and intensity changes for non-responsive clients, for trainer review.",
+  "problem": "Trainers need guidance on adjusting caloric deficits and training intensity for clients not responding to standard approaches.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/personaltraining/comments/1viytqt/female_clients_with_stubborn_lower_stomach_fat/",
+  "source_posted": "2026-08-08"
+ },
+ {
+  "market": "Gym Owners",
+  "idea": "A client education platform providing evidence-based nutritional guidance for trainers to deliver to clients with specific dietary needs.",
+  "problem": "Trainers need tools to educate clients about nutrition, especially when clients have misconceptions or unrealistic dietary plans.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/personaltraining/comments/1w0bzmx/gen_pop_training_woes/",
+  "source_posted": "2026-08-28"
+ },
+ {
+  "market": "Gym Owners",
+  "idea": "A coaching app focused on core data consolidation, not bloated 'AI workout builders'.",
+  "problem": "Existing coaching apps are bloated with unnecessary features like \"AI workout builders\" that are not useful.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "MYPTHUB",
+   "Trainerize",
+   "Kahunas",
+   "Truecoach"
+  ],
+  "source_url": "https://www.reddit.com/r/personaltraining/comments/1vitfm6/wow_another_bloated_feature/",
+  "source_posted": "2026-08-08"
+ },
+ {
+  "market": "Gym Owners",
+  "idea": "A client experience simulation tool for trainers to review their onboarding process from a client's viewpoint.",
+  "problem": "Trainers need a way to easily review their client experience from the client's perspective to identify friction points.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/personaltraining/comments/1vyzivy/i_think_trainers_underestimate_how_much_the/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Gym Owners",
+  "idea": "A business management tool for personal trainers to track and optimize time across coaching, sales, marketing, and retention.",
+  "problem": "Trainers need to understand the business reality of balancing coaching with sales, marketing, and retention.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/personaltraining/comments/1vym6s5/im_about_to_start_my_career_as_a_pt_if_you_could/",
+  "source_posted": "2026-08-26"
+ },
+ {
+  "market": "Gym Owners",
+  "idea": "A billing and scheduling platform facilitating stable, subscription-based income models for personal trainers.",
+  "problem": "Pay-per-session models lead to unstable income for trainers due to client travel and unpredictable gaps.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/personaltraining/comments/1vg91mz/subscriptionbased_service_vs_pay_per_session/",
+  "source_posted": "2026-08-05"
+ },
+ {
+  "market": "Gym Owners",
+  "idea": "A client onboarding workflow tool integrating intake forms with consultation scheduling and follow-ups.",
+  "problem": "New trainers need a structured process for initial client consultations, starting with an intake form before a call.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/personaltraining/comments/1w112i1/new_client_intake_form/",
+  "source_posted": "2026-08-28"
+ },
+ {
+  "market": "Gym Owners",
+  "idea": "A product creation and distribution platform for trainers to package and sell expertise as scalable offerings.",
+  "problem": "Personal trainers want to create and sell their own \"products\" to scale their business, but need guidance on how to do so.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/personaltraining/comments/1vv7e0e/could_a_personal_trainer_or_a_fitness_expert/",
+  "source_posted": "2026-08-22"
+ },
+ {
+  "market": "Gym Owners",
+  "idea": "A client journey mapping tool visualizing the 'real path' clients take from discovery to conversion.",
+  "problem": "Coaches struggle to understand the actual steps clients take from first contact to becoming a client.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/personaltraining/comments/1vo9azy/coaches_who_are_actually_full_what_does_your/",
+  "source_posted": "2026-08-14"
+ },
+ {
+  "market": "Gym Owners",
+  "idea": "A lead source tracking system identifying where new personal training clients first hear about a coach.",
+  "problem": "Coaches need to know the initial touchpoint for client acquisition to optimize their outreach.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/personaltraining/comments/1vo9azy/coaches_who_are_actually_full_what_does_your/",
+  "source_posted": "2026-08-14"
+ },
+ {
+  "market": "Gym Owners",
+  "idea": "A client funnel management platform for online coaches to organize and track their client acquisition process.",
+  "problem": "New online coaches are 'still figuring out' how to attract clients and manage their progression through a sales funnel.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/personaltraining/comments/1vo9azy/coaches_who_are_actually_full_what_does_your/",
+  "source_posted": "2026-08-14"
+ },
+ {
+  "market": "Nonprofit Ops",
+  "idea": "Platform connecting new nonprofit EDs with experienced financial advisors for mentorship.",
+  "problem": "New ED lacks financial expertise and needs support.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nonprofit/comments/1vhoo0f/trying_not_to_regret_becoming_the_executive/",
+  "source_posted": "2026-08-07"
+ },
+ {
+  "market": "Nonprofit Ops",
+  "idea": "Board mentorship matching platform connecting new board members with experienced mentors.",
+  "problem": "New board member tried to cultivate a mentor but it “soured with no explanation.”",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nonprofit/comments/1vv8rod/joined_a_board_of_directors_no_experience/",
+  "source_posted": "2026-08-22"
+ },
+ {
+  "market": "Nonprofit Ops",
+  "idea": "Board committee management tool for transparent task assignment and progress tracking.",
+  "problem": "Board members are assigned work but there's a “sink or swim” culture.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nonprofit/comments/1vv8rod/joined_a_board_of_directors_no_experience/",
+  "source_posted": "2026-08-22"
+ },
+ {
+  "market": "Nonprofit Ops",
+  "idea": "AI content detection tool identifying AI-generated text in professional communications.",
+  "problem": "Board member's AI-written emails are indistinguishable from original ideas to some.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nonprofit/comments/1w0w2rz/my_boss_is_absolutely_gushing_over_a_board/",
+  "source_posted": "2026-08-28"
+ },
+ {
+  "market": "Nonprofit Ops",
+  "idea": "Website content migration and repair tool for large, complex sites.",
+  "problem": "manually fixing a 300+ page website that even another agency we brought on... is having difficulty with.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nonprofit/comments/1vp9pgf/fmla_for_burnout/",
+  "source_posted": "2026-08-15"
+ },
+ {
+  "market": "Nonprofit Ops",
+  "idea": "Platform aggregating and visualizing qualitative/quantitative organizational dysfunction data for leadership.",
+  "problem": "Inability to provide concrete proof of broad dysfunction to leadership.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nonprofit/comments/1vl6fca/confused_and_stressed/",
+  "source_posted": "2026-08-11"
+ },
+ {
+  "market": "Nonprofit Ops",
+  "idea": "Certification service verifying and stamping grant applications as human-written for funders.",
+  "problem": "Funders may devalue AI-generated content; need to signal human authorship.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nonprofit/comments/1w06cml/this_grant_was_written_by_a_human/",
+  "source_posted": "2026-08-27"
+ },
+ {
+  "market": "Nonprofit Ops",
+  "idea": "Job description generator scoping nonprofit roles and suggesting fair compensation ranges.",
+  "problem": "Nonprofit job descriptions combine multiple roles for low pay with unrealistic work expectations.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nonprofit/comments/1vxoq3n/frustrations_with_the_sector/",
+  "source_posted": "2026-08-25"
+ },
+ {
+  "market": "Nonprofit Ops",
+  "idea": "Platform benchmarking nonprofit compensation and work-life balance expectations against similar sector roles.",
+  "problem": "Unrealistic expectations for hours and compensation in nonprofit roles.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nonprofit/comments/1vxoq3n/frustrations_with_the_sector/",
+  "source_posted": "2026-08-25"
+ },
+ {
+  "market": "Nonprofit Ops",
+  "idea": "Workflow management tool tracking approval times and identifying bottlenecks by specific individuals.",
+  "problem": "Micromanagement and slow approvals are causing significant work delays.",
+  "regulated": false,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nonprofit/comments/1vfdday/direct_report_is_my_worst_nightmare/",
+  "source_posted": "2026-08-04"
+ },
+ {
+  "market": "Nonprofit Ops",
+  "idea": "Zoom integration providing polite, non-verbal cues for rambling or exceeding speaking time.",
+  "problem": "Participants ramble on Zoom calls, exceeding time limits and hindering productivity.",
+  "regulated": false,
+  "mentioned_in_thread": [
+   "Zoom"
+  ],
+  "source_url": "https://www.reddit.com/r/nonprofit/comments/1vgi4bg/is_there_a_polite_way_to_get_someone_to_stop/",
+  "source_posted": "2026-08-05"
+ },
+ {
+  "market": "Nonprofit Ops",
+  "idea": "Anonymous reporting platform for employees to securely report fraud when internal channels are compromised.",
+  "problem": "Employee fears retaliation for reporting suspected fraud and direct board access is blocked.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nonprofit/comments/1vpe0mq/concerned_ceo_is_committing_fraud/",
+  "source_posted": "2026-08-15"
+ },
+ {
+  "market": "Nonprofit Ops",
+  "idea": "Internal issue logging tool creating auditable records of reported staffing and patient concerns.",
+  "problem": "Management claims ignorance of recurring issues, stating it's 'the first time' they've heard of them.",
+  "regulated": true,
+  "mentioned_in_thread": [],
+  "source_url": "https://www.reddit.com/r/nonprofit/comments/1vpe0mq/concerned_ceo_is_committing_fraud/",
+  "source_posted": "2026-08-15"
+ }
+]
